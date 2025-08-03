@@ -1,0 +1,1650 @@
+ID,Title,Predicted_Label,Predicted_Domain
+3846,Spark Cheatsheet,4,Resources
+3847,Review of Random forest code in Python,6,Tools
+3848,Chi-Sq Test for Numeric variables,5,Techniques
+3849,Prediction from loaded pickled file for single instance of input,5,Techniques
+3850,"Even after installing Anaconda on my PC, I am unable to access Jupyter Notebook on my command prompt",6,Tools
+3851,Unhide Multiple sheets together in Excel,6,Tools
+3852,Relation between hypothesis testing and null hypothesis,5,Techniques
+3853,How to plot two y-axis data in R using ggplot2,6,Tools
+3854,How to create Target Encoding or Mean Encoding in R?,6,Tools
+3855,Example for using XGBoost to perform Regression in R,6,Tools
+3856,Problem in running http server (python),6,Tools
+3857,Error while using the function h2o.init(),6,Tools
+3858,Adding Subtitles and/or Bookmarks for Reference,5,Techniques
+3859,How to remove variable from work space in R,5,Techniques
+3860,My 500 Words : An attempt to be better at blogging,5,Techniques
+3861,Analytics in Sales,0,Career
+3862,How to authenticate the twitter credentials object in R,6,Tools
+3863,Bayesian Probability Analysis using OpenBUGS,5,Techniques
+3864,How to integrate LDAP with Rshiny Dashboard application,3,Other
+3865,Anomaly detection on large time series dataset,5,Techniques
+3866,Help me to transform my career into Data Science,0,Career
+3867,Discussion Badges not showing up on my profile,3,Other
+3868,Logistic Regression not giving categorical output,5,Techniques
+3869,How to manipulate (best package) NoSQL data format in R,6,Tools
+3870,Rstudio importing problem,6,Tools
+3871,When is normalization of data required,4,Resources
+3872,Keep only the rows with latest dates in dataframe,6,Tools
+3873,Change in career path,0,Career
+3874,How to handle multi collinearity in data efficiently?,5,Techniques
+3875,Mapping postal codes on country map using R,5,Techniques
+3876,What insights can we derive from the mean of squared residuals and % variance explained terms in a randomForest model?,5,Techniques
+3877,Merging two Excel files of different size into one,6,Tools
+3878,How to take subset or matching one row of first dataframe with respect to second dataframe columns in pandas?,6,Tools
+3879,What exactly does XGBoost gblinear+reg:linear do?,5,Techniques
+3880,Data Analysis and Interpretation,5,Techniques
+3881,What is your new year learning resolution?,5,Techniques
+3882,Applying GRM package,6,Tools
+3883,"R, htmlTreeParse and xml library giving empty list during web-scraping attempt",5,Techniques
+3884,What is inductive bias?,5,Techniques
+3885,How to predict next value using only one variable in linear regression,5,Techniques
+3886,Decision Tree Rules,5,Techniques
+3887,Please Suggest a faster method/package for parameter tuning in R,5,Techniques
+3888,Is anyone of this called supervised learning? and is this a correct way to solve to problem,5,Techniques
+3889,Via_region_data.json file not found error while it is there in train and test dataset,5,Techniques
+3890,Creating a new variable with multiple conditions in python,6,Tools
+3891,Does K-means clustering algorithm really finds the global minimum or not?,5,Techniques
+3892,Which classification algorithm could be used for sentiment analysis?,5,Techniques
+3893,Not able to download data of Bigbuck challenge,1,Hackathons
+3894,Curve fitting of three curves to single equation,5,Techniques
+3895,Computer Vision using Deep Learning,5,Techniques
+3896,How to implement semantic search in Python or R?,6,Tools
+3897,Tips for handling Big Data efficiently in Python,6,Tools
+3898,Knocktober 2016 - gap between public score and private score,1,Hackathons
+3899,How Analytics in Bank is differ from role of Data Scientist?,0,Career
+3900,Error: non-numeric argument to binary operator,6,Tools
+3901,(For People having work ex in different domain) Learn the skill of transitioning your Career in Data science,0,Career
+3902,Help: Credit approval model in python,5,Techniques
+3903,Cheat Sheet - SQL,6,Tools
+3904,Microsoft tools in analytics,6,Tools
+3905,How to sort the matrix in a specific dimension in Ipython?,6,Tools
+3906,Unrelated features with common target issue,5,Techniques
+3907,How to sort a data frame row/column wise according to alphanumeric values in R?,6,Tools
+3908,"Methods to improve Time series forecast (including ARIMA, Holt's winter)",5,Techniques
+3909,How does R calculate the probabilities in Naive Bayes,5,Techniques
+3910,Regularization with linear regression,5,Techniques
+3911,Q5 How to convert different level to same level in R?,6,Tools
+3912,Request for the test set for Problem Set 1,5,Techniques
+3913,Importing HTML values to R,5,Techniques
+3914,Please help on sas basic error,6,Tools
+3915,Comapare the values of same column name of two different dataframes,6,Tools
+3916,Does anybody knows how we can generate pdf includes user imported image (i.e Not R generated charts/maps) from jupyter notebook for R?,6,Tools
+3917,How to skip missing values between two delimiters in SAS,6,Tools
+3918,Need Help Improving Accuracy of Model,5,Techniques
+3919,How can we plot 3D scatter plot in python?,6,Tools
+3920,Multi class classification using XGBClassifier,5,Techniques
+3921,I keep getting an error Unnamed 0 is seen in your code when I want to submit my solution,1,Hackathons
+3922,"Error in xy.coords(x, y, xlabel, ylabel, log) : 'x' is a list, but does not have components 'x' and 'y' while trying to implement K-means algorithm in R",5,Techniques
+3923,Most common Qlikview Interview Question,6,Tools
+3924,What is the difference between matrix() and as.matrix() functions in R?,6,Tools
+3925,Regression - Dtree/Random forest / Boosting,5,Techniques
+3926,Cloning required for Mask R CNN,5,Techniques
+3927,Error with accessing the public API,6,Tools
+3928,How to convert string to date in pandas dataframe using Python,6,Tools
+3929,How the value of mfinal effect in boosting,5,Techniques
+3930,Why is it required to do ANOVA before doing Tukey's HSD?,4,Resources
+3931,How to manually remove/add a node in decision tree in r,5,Techniques
+3932,Data prediction using svm,5,Techniques
+3933,Glm.fit: fitted probabilities numerically 0 or 1 occurred Warning message when I run Logistic regression,5,Techniques
+3934,Predicting future events,5,Techniques
+3935,Question regarding skill-test,5,Techniques
+3936,Memory error (digits recognition in python av article ) - train_x = np.stack(temp) and in test_x = np.stack(temp),5,Techniques
+3937,KNN quiz query - LOOCV in kNN,5,Techniques
+3938,Drop Multiple Variables of similar name in SAS,6,Tools
+3939,How to select the inner matrix of a multiple index series in python?,6,Tools
+3940,Is it worth learning AWS for Data Engineer,4,Resources
+3941,What should be the allowed percentage of Missing Values?,5,Techniques
+3942,Time series forecasting,5,Techniques
+3943,Analytics course part time vs full time,0,Career
+3944,Writing ANN in Excel VBA,6,Tools
+3945,Why do we use the t-statistic to find out the significance of the predictors while we use the z-statistic to compute the confidence interval of the predictor coefficients?,5,Techniques
+3946,Multiple categorical IV single continuous DV,5,Techniques
+3947,Training Object Detection Algorithm,5,Techniques
+3948,How to subset the array using Boolean array in Ipython?,6,Tools
+3949,Catboost missing value handling,5,Techniques
+3950,Finding average of features generated to create template for prediction of class of object,5,Techniques
+3951,Can R and SAS be simultaneously learnt ? (Time constraint),6,Tools
+3952,How to check the level of each variable in data,5,Techniques
+3953,How to import multiple files from a specific folder in SAS,6,Tools
+3954,Kaggle Competitions,5,Techniques
+3955,Hansa Cequity Hiring Hack - Download Data Set Here,1,Hackathons
+3956,Panel Data Regression Analysis - Whether to Use Panel Structure?,5,Techniques
+3957,Should I learn Julia to perform statistical modeling?,0,Career
+3958,Terminology: Distributions,5,Techniques
+3959,Error while performing gridsearch in R,5,Techniques
+3960,TypeError when finding mode for each Outlet_Type,5,Techniques
+3961,Is learning SAP important to be an Analyst. Or would SAS and R suffice?,0,Career
+3962,Light Gradient Boosting,5,Techniques
+3963,Which statistical analysis method to use? Nominal Data,5,Techniques
+3964,How to build a Chatbot?,5,Techniques
+3965,Why is the validation error coming to be NaN in boosting in R,1,Hackathons
+3966,Help: Create ids of an igraph graph using “internal” ids,6,Tools
+3967,How to resolve Not enough distinct predictions to compute area under the ROC curve error in gbm,5,Techniques
+3968,Error metrics regression,5,Techniques
+3969,How to calculate confidence interval ?,5,Techniques
+3970,Reg:Career shift to Analytics after 10 yr exp in IT nd 6 yr of break after that,0,Career
+3971,What are some good resources for text analytics in R,4,Resources
+3972,Use of pd.merge() for merging two databases,6,Tools
+3973,Video Recomendation,4,Resources
+3974,Chi Square test for independence of 2 categorical variables,5,Techniques
+3975,Massive Open Online Courses,0,Career
+3976,How to calculate the performance of boosting model at each iteration?,5,Techniques
+3977,Combining two classifications for ensemble learning in R,5,Techniques
+3978,How to use the predict function of ARIMA?,5,Techniques
+3979,Why are degrees of freedom calculated while calculating the residual standard error in linear regression,5,Techniques
+3980,Error while converting a vector of text strings to a corpus in R?,6,Tools
+3981,Forecast Scores of Students,5,Techniques
+3982,How to send image in email via SAS ODS,6,Tools
+3983,Normalisation of target varible,5,Techniques
+3984,Machine learning project ideas,0,Career
+3985,Predicting new product performance,5,Techniques
+3986,Finding Frequently occuring items,5,Techniques
+3987,R text classificaton bayesian network,5,Techniques
+3988,IV Categorical Variable For Logistic Regression,5,Techniques
+3989,Variable selection,5,Techniques
+3990,How to build Loan Default Forecasting model?,5,Techniques
+3991,How can I do Hands on pratice on Python?,6,Tools
+3992,Data availability after Hackathon ends,1,Hackathons
+3993,Multilabel Classification in R,5,Techniques
+3994,Combining output (deciles or risk score) of 2 or more logistic regression based model into one single output SCORE,5,Techniques
+3995,Gradient descent confusion,5,Techniques
+3996,Best practices used while building models,4,Resources
+3997,Digital Marketing in Finacial Industry,3,Other
+3998,"How to practice tableau, are they any competitions held to get hands-on",4,Resources
+3999,How to join two different graphs together side by side in R,6,Tools
+4000,"Help me to understand ""Backpropagation"" in Neural Network",5,Techniques
+4001,How do understand anonymized data (data without column names)?,6,Tools
+4002,Output of the sapply function in R,6,Tools
+4003,Data Analytics in portfolio or investment management,0,Career
+4004,Image type for Data set,5,Techniques
+4005,How to make sure my data is ready before choosing any algorithm for modelling and analysis?,5,Techniques
+4006,How do you BackProp in CNN Pooling Layer?,5,Techniques
+4007,Feature selection and Model Tuning in R,5,Techniques
+4008,Databses_neurological,5,Techniques
+4009,Uses of the %*% operator in R,6,Tools
+4010,Methods for computing coefficients in linear regression,5,Techniques
+4011,Research topics in data science dealing with real life problems,3,Other
+4012,Want to Enter the field of Analytics,0,Career
+4013,Words with multiple meanings : NLP,5,Techniques
+4014,Best ways to pick up Deep Learning skills,4,Resources
+4015,How to rescale features in R,5,Techniques
+4016,ANOVA and Regression,5,Techniques
+4017,Job prospects after completing pg/certification in BA,0,Career
+4018,How to add a column to a data.frame in R?,6,Tools
+4019,Replacing for loop in pandas Python search and replace,6,Tools
+4020,Logistic regression for categorical variables,5,Techniques
+4021,Create a new variable based on values frequency of existing variable in Python,6,Tools
+4022,Multinomial Logistic Regression from Scratch,5,Techniques
+4023,Significance of degree of freedom,4,Resources
+4024,What should be height of tree in random forest,5,Techniques
+4025,Problem with Logistic regression / classification problem,5,Techniques
+4026,Regarding online vs full time course of data science,0,Career
+4027,Error with read_html() Peer Certificate cannot be authenticated,6,Tools
+4028,Classification of watermarked and non-watermarked images,5,Techniques
+4029,Solutions for stategic thinking,1,Hackathons
+4030,Goodness of fit for binary logistic regression,5,Techniques
+4031,What is the difference between Forecasting vs Prediction?,5,Techniques
+4032,Benford law - fraud prediction,5,Techniques
+4033,Replace missing value with average in SAS,6,Tools
+4034,How to improve the Faster R-CNN model performance?,5,Techniques
+4035,HYpothesis testing - Type l and II Errors,5,Techniques
+4036,Identify Lookalike customers,5,Techniques
+4037,Handling missing categorical data,5,Techniques
+4038,"Machine Learning, Pattern Recognition and Data Mining",5,Techniques
+4039,Kaggle Scripts execution of single line,5,Techniques
+4040,Text mining in r,5,Techniques
+4041,How does Bayesian voting work in ensemble mthods,5,Techniques
+4042,"Converting nested dictionary into dataframe , but one key has multiple values",6,Tools
+4043,GATE Statistics,5,Techniques
+4044,How to check the missing values in Ipython notebook?,6,Tools
+4045,Understanding Machine Learning in a minute,5,Techniques
+4046,How can I stack one feature-engineering based model and another one non-feature engineering based model in python?,5,Techniques
+4047,Variable reduction using decision tress,5,Techniques
+4048,How to plot horizontal line inside a graph in R,6,Tools
+4049,What is the solution for Time Series Analysis Dataset,5,Techniques
+4050,Seeking methods to compare the techniques used in Outlier treatment,5,Techniques
+4051,How is haversine distance used for weight optimization across trips in R,5,Techniques
+4052,Superset Vs Plot ly,6,Tools
+4053,Suggestions for Quicker kind of company on Analytics,0,Career
+4054,Best places to read about clustering and classification topics of Machine Learning,5,Techniques
+4055,How to perform element wise functioning in a Data frame of a python?,6,Tools
+4056,Simpson's Paradox in Regression - Solution?,1,Hackathons
+4057,What is the maximum dataset size for XGBoost?,5,Techniques
+4058,"Data Manipulation in R,Cluster Analysis",5,Techniques
+4059,Online machine learning,4,Resources
+4060,Book Crossing dataset in ML,5,Techniques
+4061,Can you suggest any good materials for Markov chains?,6,Tools
+4062,How to resolve error while importing modules in python,6,Tools
+4063,How do I set up a corpus of documents using the 'tm' package in R,6,Tools
+4064,Interpreting the poisson regression output when the input dataset is normalized,5,Techniques
+4065,"Interpreting and forecasting using ARIMA(0,0,0) or ARIMA(0,1,0) models",5,Techniques
+4066,Hackathon: Check accuracy of your solutions,1,Hackathons
+4067,How to shuffle rows in a data frame in R?,6,Tools
+4068,How to make sense of notes made by executives - Text Mining or Sentimental Analysis,5,Techniques
+4069,Is it mandatory to have industry knowledge to shift your career?,0,Career
+4070,How to simulate multivariate dataset on random basis,5,Techniques
+4071,How to perform multivariate multi-class text classification?,5,Techniques
+4072,Finding percentage of Movies rated above 4,5,Techniques
+4073,How to Start and Get Going in ML?,6,Tools
+4074,Applying Naive Bayes model created in R outside of R,5,Techniques
+4075,How to implement gradient boosting?,5,Techniques
+4076,Creating a Dimension which has only week and month named as period,6,Tools
+4077,Need Help with GARCH analysis on R,1,Hackathons
+4078,Unable to print loop values in R,6,Tools
+4079,Which is best performance evaluation metric for Classification problems - accuracy or AUC-ROC?,5,Techniques
+4080,Cheat Sheet - Regular Expressions,5,Techniques
+4081,RegardingJobs and Career Advice in data science,0,Career
+4082,What are the paste() and paste0() functions in R used for?,5,Techniques
+4083,How to impute missing values in Time series by Moving Average in R,5,Techniques
+4084,SP Jain or Aegis school ? Which is best for a fresher?,0,Career
+4085,Random model lorenz curve of uplift curve,5,Techniques
+4086,Text Summarization | Text Summarization Using Deep Learning,5,Techniques
+4087,Difference between & and && operators in R,6,Tools
+4088,Retail Business Understanding,4,Resources
+4089,Errors in Logistic Regression,5,Techniques
+4090,Spatial clustering with profiling variables/weights,5,Techniques
+4091,Step-by-Step Deep Learning Tutorial to Build your own Video Classification Model,4,Resources
+4092,Good read: How Convolutional Neural Networks Work,4,Resources
+4093,How to read and Convert XML data into R?,5,Techniques
+4094,How to get number of rows of subplots in python?,6,Tools
+4095,Statsmodels in Python,6,Tools
+4096,Help required to choose processing architecture,5,Techniques
+4097,How can I read first 500 records of excel file in Python?,6,Tools
+4098,How to join two data tables in R?,6,Tools
+4099,How Improved Intelligence Can Push the Education Sector Forward,5,Techniques
+4100,Masters in Management specializing in Business Analytics from IISc-Bangalore,0,Career
+4101,Where can I find pre-labeled dataset of tweets for sentimental analysis using neural networks?,5,Techniques
+4102,Incorrect mime type for reading from Google Drive,6,Tools
+4103,Overfitting on a model,5,Techniques
+4104,PG Diploma in Data Analytics from IIIT Bangalore,0,Career
+4105,Suggest Online Resources for Hadoop Practice,4,Resources
+4106,How to simulate matrix rotations for SVD in R,6,Tools
+4107,Views on Executive Program on Data Mining & Analytics from IIT Roorkee & TalentEdge?,0,Career
+4108,How can I use a cross validation with logistic regression in R,5,Techniques
+4109,Seeking Ideas for Data Preparation for unique dataset,5,Techniques
+4110,What are your favourite R hacks and why?,5,Techniques
+4111,13 Common Mistakes Amateur Data Scientists Make and How to Avoid Them?,0,Career
+4112,Interview Que - related to what analysis to be used?,5,Techniques
+4113,Model Comparision,5,Techniques
+4114,I need source code and data set for stock market prediction,5,Techniques
+4115,Linear Regression Assumptions Testing in R,5,Techniques
+4116,How to calculate the error in an ensemble technique,5,Techniques
+4117,Error while converting into Date format in R?,6,Tools
+4118,How to substract in R studio,5,Techniques
+4119,How to interpret the result of ranking a series in python?,6,Tools
+4120,Seeking guidance to detect create knowledge base for chatbot using ML,5,Techniques
+4121,How to replace missing observation while Modeling?,5,Techniques
+4122,What does the value of votes and prob signifies in bagging,5,Techniques
+4123,What would be the expected salary for Data Science fresher with 10 Years experience?,0,Career
+4124,Variable Clustering,5,Techniques
+4125,Merge Progress in gantt chart,6,Tools
+4126,Review of NUS Singapore MSBA Programme (MS in Business Analytics),0,Career
+4127,Final Step to Missing Value imputation in R?,1,Hackathons
+4128,How to calculate number of months between two dates in QlikView?,6,Tools
+4129,Please help me in joining the DATAFEST online from US,1,Hackathons
+4130,Parameters Tuning- Random Forest,5,Techniques
+4131,Predictive maintenance for machines,5,Techniques
+4132,R how to relate datasets with multiple predictor values to a single target value for prediction?,5,Techniques
+4133,Certification in Big Data vs. R for new Entrant Into Analytics,0,Career
+4134,Looking for Theoretical/Mathematical basis for Vector Auto Regression materials,5,Techniques
+4135,MSc Business Analytics BITS Pilani,0,Career
+4136,Should I learn Python first or Statistics?,0,Career
+4137,Career Change from Sales to Analytics,0,Career
+4138,Resource for beginners in Data Science,4,Resources
+4139,How to use plot function in Ipython notebook?,6,Tools
+4140,Doubt in Conditional subsetting in Pandas,5,Techniques
+4141,Learning & hands on Recommendation engines,5,Techniques
+4142,Multicollinearity : Should this always be avoided?,5,Techniques
+4143,"Using either mean, median or mode to describe central tendency of any data",5,Techniques
+4144,"Can't access the video content in ""Introduction to Data Science"" course",3,Other
+4145,What is the difference between Parameter and Statistic?,5,Techniques
+4146,What are the techniques to improve the performance of a linear/logistic model?,5,Techniques
+4147,Hackathon Private LeaderBoard Score,1,Hackathons
+4148,Can we combine two data frames with similar column names but different order directly in R?,6,Tools
+4149,Identify the most isolated location’s Location Id,5,Techniques
+4150,How does Gradient Boosting deal with class imbalance problem?,5,Techniques
+4151,What is Dimensionality Reduction (degrees of freedom)?,5,Techniques
+4152,SAS line chart and graph,6,Tools
+4153,AttributeError: module 'xgboost' has no attribute 'XGBRegressor',6,Tools
+4154,ROC curve in SAS without macros,2,Misc
+4155,Join a very large table with a small table - Efficient Way,6,Tools
+4156,Outlier treatment for Predictive Modeling,5,Techniques
+4157,Maximum levels that can be predicted by Naive bayes,5,Techniques
+4158,How to deal with variables with too many level?,6,Tools
+4159,DATASET OPTIMIZER (Sentiment Analysis),5,Techniques
+4160,Spark DataFrames: how to work with dense vectors and sparse vectors,5,Techniques
+4161,How to pass Dataframe element in function?,6,Tools
+4162,Determining significance of predictors in R,5,Techniques
+4163,How does decision tree decides split value for continuous vaiable?,5,Techniques
+4164,Detection of helix shaped(cork-screw shaped structures) nano sized propellers from an image using image processing/computer vision,5,Techniques
+4165,How to impute values row-wise in a dataframe?,6,Tools
+4166,Time forecasting,5,Techniques
+4167,Getting TypeError: '<' not supported between instances of 'float' and 'str',1,Hackathons
+4168,You tube video data extraction,5,Techniques
+4169,What is the attribute type signify in naive Bayes model,5,Techniques
+4170,NER or Text extraction in NLP?,5,Techniques
+4171,A Very Good Data Science Course in Python by Harvard,0,Career
+4172,Error in plot.new() : figure margins too large in R,6,Tools
+4173,How to resolve R error : non-numeric argument to binary operator?,6,Tools
+4174,Can't we comment a block of code at once in R?,6,Tools
+4175,How to remove redundant rules from rules generated by Apriori algorithm,5,Techniques
+4176,Dealing with special values in prediction problem,5,Techniques
+4177,How to solve non-numeric argument to binary operator error in ggplot,6,Tools
+4178,Python with HADOOP,6,Tools
+4179,Seers Accuracy Data Hack - Approach,1,Hackathons
+4180,Pattern Matching with Clustering,3,Other
+4181,If the linear regression coefficient of a predictor is 0.54 then what does it mean?,5,Techniques
+4182,Statistical Modelling in R,5,Techniques
+4183,How to extract a single word from text in R,5,Techniques
+4184,PGDBA from IIT + IIM C + ISI vs. Praxis Business School PGPBA,0,Career
+4185,Sales Prediction for Fashion Retail Data,3,Other
+4186,Data Visualization Using ggplot2,5,Techniques
+4187,Use of Pretrained language model in Lord of the Machines hackathon,1,Hackathons
+4188,How to create groups of variable by deciles in SAS?,6,Tools
+4189,Matt Whiteny U test Vs T test,5,Techniques
+4190,How is the prob matrix generated in Markov Chain - cat and mouse problem,5,Techniques
+4191,Analytics Life cycle Methodology,5,Techniques
+4192,•Explain what is confusion matrix and how it is used to validate classification models?,5,Techniques
+4193,Chrun Model / Survival Time Analysis,5,Techniques
+4194,How to map values of a category to other category in the same variable?,5,Techniques
+4195,Creating confusion mattrix on Loan Prediction dataset,1,Hackathons
+4196,Data anonymization in R,2,Misc
+4197,"AutoSpearman, feature selection R",5,Techniques
+4198,Can we use continuous variables as an input for logistic regression?,5,Techniques
+4199,How to practice Tableau?,6,Tools
+4200,Full life cycle data project,3,Other
+4201,The-Seers-Accuracy Hackthon Dataset,1,Hackathons
+4202,Missing Values Imputation,5,Techniques
+4203,Introducing non-linear transformations of Independent variables into a Logistic Model to improve accuracy,5,Techniques
+4204,Lemon fruits detection,5,Techniques
+4205,Data Hackathon 3.x Problem Statement and description,1,Hackathons
+4206,Hikeathon - Minimum System Requirements,4,Resources
+4207,How to create a Stacked bar plot?,6,Tools
+4208,Data Submission Problem - Seers Accuracy,1,Hackathons
+4209,Explaining Choosing and Arranging objects in simple English?,6,Tools
+4210,How can NLP be used in Finance?,4,Resources
+4211,Overfitting with R xgboost,5,Techniques
+4212,Last Man Standing - Reveal your approach,1,Hackathons
+4213,Understanding reliability diagram for classification,5,Techniques
+4214,Keras Faster RCNN on custom dataset (NO OUTPUT ON TEST IMAGES),5,Techniques
+4215,Need basics of Statistics,0,Career
+4216,What is difference between single bracket and double bracket in R,5,Techniques
+4217,How to get rows of False Positive in Python,6,Tools
+4218,How to merge 3 dataframes by id in R,6,Tools
+4219,Choosing the Programming Language (Beginner Data Scientist),0,Career
+4220,"Need help in resolving error during installation of spark R:Error in sparkR.init(master = ""local"") : JVM is not ready after 10 seconds",6,Tools
+4221,List of libraries in Python for Text Mining,6,Tools
+4222,Which language should I learn after I have learnt Python?,6,Tools
+4223,How to normalize the dataset with many missing values?,5,Techniques
+4224,Are PCA eigenvalues equivalent to semipartial correlation coefficients in linear regression?,5,Techniques
+4225,Syntax Error in machine learning code,5,Techniques
+4226,How to resolve error while predicting using xgboost in R,6,Tools
+4227,Parameters in rpart,6,Tools
+4228,List of companies / Organizations using analytics in India,0,Career
+4229,Please Explain Principal Component Analysis (PCA)/SVD Algorithm in artificial intelligence,5,Techniques
+4230,"Pattern matching, Text Mining",5,Techniques
+4231,Extract an image features in R,5,Techniques
+4232,Confusion in replacing aggfunc by np.median() or np.mean() while using pivot table for 'LoanAmount',5,Techniques
+4233,How can i download closed event Dataset?,3,Other
+4234,Re-sampling code for different sampling Techniques,5,Techniques
+4235,Extracting coefficients of a linear model fitted to a ggplot using geom_smooth () in R,5,Techniques
+4236,Case Studies using EDA in R,5,Techniques
+4237,What are some examples where False positive is preferred over false negative?,5,Techniques
+4238,Calculating just a single row of dissimilarity/distance matrix,5,Techniques
+4239,Time Series Forecasting - For Aggregated measure and sub variables,5,Techniques
+4240,News article success score formula,3,Other
+4241,How to predict which users will purchase given the user's activities,5,Techniques
+4242,A request for feedback resource sharing,6,Tools
+4243,Switching career to data science from research in Mathematics,0,Career
+4244,Good Book for Predictive Analytics in Insurance,5,Techniques
+4245,Better Way of creating a dataframe in Pandas,6,Tools
+4246,Keras binary classification: I am getting same prediction class for all images,5,Techniques
+4247,Churn model using Survival analysis,5,Techniques
+4248,ISB CBA vs GLIM - opportunities post course completion,0,Career
+4249,Warning message: glm.fit: algorithm did not converge,5,Techniques
+4250,Conditional probability in R,5,Techniques
+4251,Zero inflated reponse with Random Forest and Gradient Boosting regressors,5,Techniques
+4252,Method for calculating the distance,5,Techniques
+4253,How to run different LSTM models on different data parallely?,5,Techniques
+4254,What does the parameter of svm signify?,5,Techniques
+4255,R parallel Processing code is taking time in Server,6,Tools
+4256,Masters in Big Data / Hadoop,0,Career
+4257,Seer's Accuracy- slack live chat button,1,Hackathons
+4258,Is there any whatsapp contacts list for Analytics and Data Science Learning/Discussions?,0,Career
+4259,How to calculate CLV value?,5,Techniques
+4260,Using spatial data for prediction,5,Techniques
+4261,Forecasting of Election 2017,5,Techniques
+4262,Analytics/Data science opportunities using R in hyderabad,0,Career
+4263,"Mean, quantile and other way to analyze a variable in Python",6,Tools
+4264,Need Guidance for an NIT Grad,5,Techniques
+4265,Showing error in categorical missing value treatment,5,Techniques
+4266,How should we place the clusters in a K-means clustering implementation?,5,Techniques
+4267,"What is difference between unsupervised learning, supervised learning and semi-supervised learning?",5,Techniques
+4268,Most suitable Data Science Program,0,Career
+4269,Why NaN acts like NA in R,1,Hackathons
+4270,Customize Pivot table or Chart,6,Tools
+4271,Data Modelling for agricultural data set,5,Techniques
+4272,Missing Value analysis,1,Hackathons
+4273,How can I post a new Hackathon competition?,1,Hackathons
+4274,Something is wrong; all the Accuracy metric values are missing:,5,Techniques
+4275,Cross Validation in Data Science Life Cycle,5,Techniques
+4276,How to convert factor variable to a numeric vector in R?,6,Tools
+4277,How can we share an excel file with Multiple users?,5,Techniques
+4278,Learning Path of R,4,Resources
+4279,Where to find the Data Set for Python tutorial,6,Tools
+4280,Tutorial to perform Data Exploration using Elastic Search & Kibana -Python,1,Hackathons
+4281,INSOFE good or not?,5,Techniques
+4282,Data Set for Central Limit Theorem,5,Techniques
+4283,Where can i get the data set for the Smart recruits?,5,Techniques
+4284,Factorization Machines - how to recommend?,4,Resources
+4285,How Dashboard Software KPIs and Visualizations Can Optimize Your Business Operations,4,Resources
+4286,New leaderboard with 40% test verification,1,Hackathons
+4287,Reverse Analysis of a Multiple Regression Problem,5,Techniques
+4288,What is the difference between regression and random forest.? where is random forest more effective?,5,Techniques
+4289,How to access large data sets on Kaggle without downloading them to system?,6,Tools
+4290,Pattern matching,5,Techniques
+4291,Different outputs everytime the program is run while scraping web using beautiful soup,5,Techniques
+4292,Understanding Transformers Self attention calculation,5,Techniques
+4293,Download: Beginners Guide to Learn Data Science in Python,4,Resources
+4294,Logistic regression,5,Techniques
+4295,Approach to time series problem (xgboost),5,Techniques
+4296,"Switching to R,SAS from SAP HANA for better job prospects and the necessity of a masters degree for a non-engineer in Analytics",0,Career
+4297,Number of analytics professionals across the globe?,0,Career
+4298,How to Predict sale price in R?,5,Techniques
+4299,Amazon EC2 Instance for Machine Learning Model,5,Techniques
+4300,Replacing ? in the dataset in R,5,Techniques
+4301,How to specify the index argument of Series in Ipython?,6,Tools
+4302,How does C4.5 treat missing values internally,5,Techniques
+4303,How to create a word cloud in R,6,Tools
+4304,Error in Computing confusion matrix,6,Tools
+4305,Voice cloning with voice samples,5,Techniques
+4306,Online Deep Learning Course,4,Resources
+4307,R Studio proxy setting for Windows,5,Techniques
+4308,In-time and Out-of-time validations,5,Techniques
+4309,Extracting only 3 consecutive Y values,6,Tools
+4310,Mini Datahack 28 May solution,1,Hackathons
+4311,Marketing analytics - Predictive models,3,Other
+4312,Problem in storing output in image classification challenge,5,Techniques
+4313,Question on PCA and Factor Analysis/Regression?,5,Techniques
+4314,Aggregation of Discounts,5,Techniques
+4315,Customer Health Score,5,Techniques
+4316,Machine Learning and OCR,5,Techniques
+4317,Time series forecasting with probability(python),5,Techniques
+4318,Do you know any open dataset,4,Resources
+4319,How to install xgboost package on x32 bit windows for python?,6,Tools
+4320,How to calculate accuracy for the test data in Python?,6,Tools
+4321,Data Science Interview Guide,0,Career
+4322,Maximum depth of a decision tree,5,Techniques
+4323,How to load 9.3 GB data in R studio with 32 GB RAM size,6,Tools
+4324,How multiple imputation helps in filling the missing value of a variable?,1,Hackathons
+4325,How to load google's pre-trained word2vec model in python,5,Techniques
+4326,Error vs Residual,5,Techniques
+4327,What are the advantages of Scipy over Matlab?,6,Tools
+4328,Python: How to use box-cox to transform right skewed data to normal distribution?,5,Techniques
+4329,Python - How to fix a parameter while fitting,6,Tools
+4330,Tableau and power BI,6,Tools
+4331,Unbalanced Data,3,Other
+4332,5th Place solution Amexpert,1,Hackathons
+4333,Advance retail analytics course,0,Career
+4334,Data Analytics in PG,0,Career
+4335,Retreving results after a keyword,6,Tools
+4336,"Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, and various command lines",6,Tools
+4337,How to do proxy settings in RStudio in Ubuntu 14.04?,6,Tools
+4338,How to specify the number of trees in gradient boosting while using caret,6,Tools
+4339,Is Manipal Prolearn data science full time course really worth it or should i go for Praxis business school data science course,0,Career
+4340,What is time series analysis?,5,Techniques
+4341,K Means Plotting IN Python,6,Tools
+4342,Linear Regression assumptions not satisfied,5,Techniques
+4343,IoT Analytics - Time series,5,Techniques
+4344,Imputing missing values in the Smart recruits hackathon,1,Hackathons
+4345,What is repeated cv in caret,6,Tools
+4346,How to shuffle the rows of the data set,6,Tools
+4347,COX ph coefficients interpretation,5,Techniques
+4348,Tuples vs lists in Python,6,Tools
+4349,Viewing the source code for a randomForest() function,6,Tools
+4350,What is centering of data,0,Career
+4351,How to use .sents method in spacy,5,Techniques
+4352,Which tool should I choose to start studying Analytics? SAS or R?,0,Career
+4353,How to answer Business Understanding rounds in interviews,0,Career
+4354,What does the output of rotated components in R display,5,Techniques
+4355,Conversion of Categorical var to Numerical Throws error with following Code,6,Tools
+4356,Questions on Time Series Tutorial,5,Techniques
+4357,A great resource for ensemble learning,5,Techniques
+4358,TypeError: string indices must be integers,5,Techniques
+4359,Is there anyway to see scipts from previous contests?,6,Tools
+4360,Multi class classification,5,Techniques
+4361,How do I connect to a SQL database using SAS,6,Tools
+4362,Welcome to Practice Problem: Big Mart Sales III,1,Hackathons
+4363,Implementing VAR (vector Auto Regression),5,Techniques
+4364,Clarification on Employee Absenteeism prediction kaggle dataset,5,Techniques
+4365,Resources for Time Series Prediction using Deep Learning,4,Resources
+4366,Weightage of Wiley 'Wrox Big Data Analytics' Certification in job market,0,Career
+4367,Adding dependent variable to test data set,5,Techniques
+4368,Best way to learn R & Tableau,0,Career
+4369,How to handle Lat/Lon features in a model?,5,Techniques
+4370,Sentiment Analysis in Python from Scratch,6,Tools
+4371,How to deal with Input(text written by human) -> LOCODE,5,Techniques
+4372,Forecasting: Stock Market and Forex Exchange,5,Techniques
+4373,Reshaping Data in R,0,Career
+4374,Complete Data Scientist course package?,0,Career
+4375,Trying to replicate Loan Prediction with SAS but,1,Hackathons
+4376,Pwr functions in R,6,Tools
+4377,Focus Forecasting,5,Techniques
+4378,Will an Internship in clinical SAS be good or bad for career in Analytics?,0,Career
+4379,Bigmart sales using R,5,Techniques
+4380,Training a Neural Network model on a simple windows 10 machine,5,Techniques
+4381,How to do segmentation based on some filters(e.g. TRAFFIC SIGNALS) from live streaming data,1,Hackathons
+4382,Analytics Training info?,0,Career
+4383,Problem with weekday in SAS gchart graphs,6,Tools
+4384,Warning message when qplot function is used in R,5,Techniques
+4385,Detecting Out-of-Distribution Datapoints via Embeddings or Predictions,5,Techniques
+4386,Advances in Data Science and Machine Learning,0,Career
+4387,Resource material on time series,5,Techniques
+4388,Logistic Regression Model building,5,Techniques
+4389,Converting date to weekday type in python,6,Tools
+4390,I want to switch from teaching career to data science in companies,0,Career
+4391,Statistics is basic skill for Data Scientist,0,Career
+4392,How to plot kernel density plot on a given histogram plot?,6,Tools
+4393,R - How to calculate mean by decile in a Svydesign object,6,Tools
+4394,What is difference between different probability distribution in R,5,Techniques
+4395,Classification of 14 categories,5,Techniques
+4396,Will the shiny app work only if we keep the code running in background in RStudio?,6,Tools
+4397,Intel scene classification challenge,1,Hackathons
+4398,Migration to Production in R,6,Tools
+4399,How to read a column(json format) from a data frame in R?,6,Tools
+4400,Share result for Mini Data Hack | Forecasting,1,Hackathons
+4401,Memory allocation Error in R (Text Mining),5,Techniques
+4402,Fython: Fortran with Python Syntax,6,Tools
+4403,Statistics binomial distribution - How to calculate the probability of receiving number of calls?,5,Techniques
+4404,How do I develop a system to Recommend a marketing channel using data science?,5,Techniques
+4405,Anyone having handson on scala with intellij,6,Tools
+4406,Resources for recommendation engine,4,Resources
+4407,"Decision Tree, Gini Impurity, purity",5,Techniques
+4408,Text mining and clustering,5,Techniques
+4409,Johnson su distribution,5,Techniques
+4410,How can we randomly split time series data in R and Python?,5,Techniques
+4411,Which is the best place to learn Big Data?,5,Techniques
+4412,Advantages of One-Hot-Coding for GBM or XGBoost,6,Tools
+4413,Open 2 excel files and create a third file with values that are averaged in python,6,Tools
+4414,How long does it take for the community rankings to get updated after the hackathons end?,5,Techniques
+4415,Deep learning Libraries by language,6,Tools
+4416,Correlated Variables in PCA,5,Techniques
+4417,"Want to pursue good course in analytics among SP Jain , aegis , Insofe etc",0,Career
+4418,Google open sources it's AI Engine Tensor Flow,6,Tools
+4419,Correlation in R,5,Techniques
+4420,Variable importance in Random Forest,5,Techniques
+4421,Black Friday Hackathon,1,Hackathons
+4422,"Big Mart Sales Prediction Data - No ""Item_Outlet_Sales"" in test data",1,Hackathons
+4423,Cefficient of determination in r studio,5,Techniques
+4424,Error while copying from R to Spark,5,Techniques
+4425,Big data analytics prespective,0,Career
+4426,Should I consider a PG course (from Great Lakes) to enter Data Analytics?,0,Career
+4427,Shifting career after 5 years of IT experience,0,Career
+4428,Interpretation Result of K means Algorithm,5,Techniques
+4429,XGB model performance,5,Techniques
+4430,Bussiness Analytics certification course in S P Jain,0,Career
+4431,Email classification,5,Techniques
+4432,Dynamic Reporting in Qlikview,6,Tools
+4433,Error:C5.0 models require a factor outcome,6,Tools
+4434,Generating Additional Dataset from the existing unlabeled dataset file,4,Resources
+4435,What are the ways to handle huge data in R?,5,Techniques
+4436,Looking to team up,5,Techniques
+4437,What does %% Operator indicate in R Language,5,Techniques
+4438,SAS help: Rolling up information in SAS data,6,Tools
+4439,Defining a machine learning problem,5,Techniques
+4440,Regarding clustering,5,Techniques
+4441,How to read JSON file in Python,6,Tools
+4442,Looking for Mentor to guide in career change,0,Career
+4443,Error while using geom_line in R,6,Tools
+4444,Venturing into data science from biology/life sciences research. how good.?,0,Career
+4445,Import .CSV file in python Error,6,Tools
+4446,"""Error: inherits(doc, ""TextDocument"") is not TRUE "" while performing text analysis",5,Techniques
+4447,Non graphical corelated Variables,5,Techniques
+4448,"How to interpret some of the outputs of PCA like scores,rotation",5,Techniques
+4449,What is a P value and it's significance in hypothesis testing,5,Techniques
+4450,Outlier_problems,5,Techniques
+4451,Can I start a career in DataScience after 8 years in Marketing/Markeing Analysis?,0,Career
+4452,Level of difficulty,6,Tools
+4453,What is the hypothesis definition for this case study?,5,Techniques
+4454,Download Infographic: Must Read Books in Data Science / Analytics,4,Resources
+4455,Understanding the Data: how to combine two files with different number of columns?,5,Techniques
+4456,Help with method to select right object in Qlikview dashboard,6,Tools
+4457,Research projects or Work experience for MS in AI,0,Career
+4458,How to find best ratio for optimum profit for a dataset,5,Techniques
+4459,Regarding adding bar labels on top of each bar in ggplot() using geom_text(),5,Techniques
+4460,Why in my module the videos are shown as UNSTARTED (Red) even after I have completed the video?,4,Resources
+4461,Explanation of GBM pseudocode,5,Techniques
+4462,"Career transition from a mobility engineer(blackberry administrator) to AWS engineer? Is it possible? If so, please let me know how to kick start",0,Career
+4463,Random forest IN R under classification,5,Techniques
+4464,Getting different value in co-occurrence matrix,5,Techniques
+4465,Can we use high Image resolution while training model?,5,Techniques
+4466,How to replace the data,6,Tools
+4467,Best Institute in Delhi for learning R / Python,6,Tools
+4468,How can I append a list/vector in python as a comma separated string of two values as each of its elements?,6,Tools
+4469,Dealing with singularities in a linear regression model,5,Techniques
+4470,Link Prediction Model,5,Techniques
+4471,How to update only missing values in R based on parameters,5,Techniques
+4472,Functional looping in R,5,Techniques
+4473,Business Analytics training Institutes - IBAT & COEPD,0,Career
+4474,Need Help in understanding the Code,1,Hackathons
+4475,What are some of the projects to do in a Ecommerce area?,5,Techniques
+4476,Set Analysis in Qlikview,6,Tools
+4477,"Is it possible to build text classification model , that depends on previous result of other model?",5,Techniques
+4478,How to improve model performance in logistic regression in R,5,Techniques
+4479,Wherer the the data set for DATA and Beyond Competetion?,5,Techniques
+4480,"Getting this error ""attempting model selection on an essentially perfect fit is nonsense""",5,Techniques
+4481,Name not showing in leaderboard,1,Hackathons
+4482,Skill test timings,6,Tools
+4483,Regarding Date Variable in Redate your Data,1,Hackathons
+4484,Error while implementing randomForest in R,5,Techniques
+4485,Unsupervised Data Prediction,5,Techniques
+4486,Error while submission of Kaggle facial keypoint detection problem,1,Hackathons
+4487,Tableau Dual Axis,6,Tools
+4488,Look Alike Modelling,5,Techniques
+4489,Interview preparation for a Career in Analytics,0,Career
+4490,Fine classing and coarse classing?,1,Hackathons
+4491,What is pruning and How to do pruning in Decision trees,5,Techniques
+4492,Uses of facet_wrap and facet_grid,6,Tools
+4493,Aspect based sentiment analysis,5,Techniques
+4494,What is the difference between Star Schema and Snow Flake Schema in Qlikview?,6,Tools
+4495,Career change from VBA developer to Data scientist,0,Career
+4496,How are decision trees not sensitive to Skewed distributions?,5,Techniques
+4497,Imputing Missing values with MICE in R,1,Hackathons
+4498,String comparison in python,5,Techniques
+4499,How do i handle unbalanced Text classification,5,Techniques
+4500,The judgment of the balance of dataset.,5,Techniques
+4501,Learning path for Text analytics,0,Career
+4502,Which analytics course I should opt,0,Career
+4503,MemoryError for creating a new numpy array,6,Tools
+4504,Building a career in Consumer / risk analytics / BI,0,Career
+4505,Linear optimization - Excel Solver,5,Techniques
+4506,Forecasting With Random Forest,5,Techniques
+4507,Can we hide sheet tabs conditionally in Qlikview?,6,Tools
+4508,How to start a career in data science,0,Career
+4509,Deal with 'Impute' Type of Variables,6,Tools
+4510,Why values are not changing using replacement function in R?,6,Tools
+4511,No improvement using boosting,5,Techniques
+4512,Binary Data Comparison in Excel,5,Techniques
+4513,Begineers guide to participate in HACKTHONS,0,Career
+4514,Which parameter is best for measuring test error?,5,Techniques
+4515,Why 0 or 1 for labeling categorical data?,5,Techniques
+4516,Query Around Cut off Probability in Logistic regression Techniques in R,5,Techniques
+4517,How to import data from .json file into R?,6,Tools
+4518,Missing data values plot in R,5,Techniques
+4519,Not able to submit my solution file,2,Misc
+4520,How to Manually Calculate TextBlob's Naive Bayes Prob_Classify function,5,Techniques
+4521,How is a loss function equal to the negative log likelihood function of the outcome distribution,5,Techniques
+4522,[Internship Challenge Round 2] Images are not getting loaded from Question 20,0,Career
+4523,Suggestions about PGD in Data analytics in IIIT-B and Upgrad,0,Career
+4524,How to find starting centroid and value of k in K means,5,Techniques
+4525,Which SQL DB is used in data science?,0,Career
+4526,Suggestions about post graduate diploma in BA,0,Career
+4527,Feature Selection with p-values,5,Techniques
+4528,Document similarity in R,5,Techniques
+4529,Dummy_Variable and and Selection in Factor Analysis,5,Techniques
+4530,Facing problem in data engineering,5,Techniques
+4531,Variance vs Standard Deviation,5,Techniques
+4532,Abnormal score(1.0) using random forest and SVM,5,Techniques
+4533,Lemmatization / stemming for Bi and N grams,0,Career
+4534,Prediction test error,1,Hackathons
+4535,Getting 3 probabilities using predict proba,5,Techniques
+4536,How to export R plots into Tex files?,6,Tools
+4537,Download dataset for Object detection (YOLO),4,Resources
+4538,Install and integrate plotly with R,6,Tools
+4539,Looking for career transition in Data Science / Analytics,0,Career
+4540,Market Basket Analysis using SAS?,6,Tools
+4541,Getting an infinite p value while selecting best feature using SelectKbest model,5,Techniques
+4542,Can Qlikview or Tableau replace Excel Reporting?,6,Tools
+4543,"Object detection of Aircrafts, helicopters?",5,Techniques
+4544,Logistic Regression From Scratch for Loan Prediction,1,Hackathons
+4545,Logistic regression- Fisher's scoring,1,Hackathons
+4546,Sas certification - Palin Technologies vs. Analytics Lab vs. Jigsaw Academy,0,Career
+4547,How to calculate the number of features in a training data using python?,5,Techniques
+4548,Question on New customers in RFM Model,5,Techniques
+4549,Which Platform( Windows or Linux ) is used by most R programmers for Rstudio,6,Tools
+4550,Text Classification algorithm selection,5,Techniques
+4551,"Discussions for article ""A Complete Tutorial on Time Series Modeling in R""",3,Other
+4552,Download cheat sheet for Data Visualization using R,4,Resources
+4553,Choosing a sub domain in Data Science,0,Career
+4554,Installing xgboost for python 3.5 for wndows,6,Tools
+4555,unorderable types: str() >= float()' error in Logistic Regression,5,Techniques
+4556,Skilltest - Statistics for Data Science,5,Techniques
+4557,NLP/TM - Providing Meaningful Insights from the Data,5,Techniques
+4558,Need sas software,6,Tools
+4559,IIIM C APDS vs IIIT B data science course,0,Career
+4560,Stock Prices Prediction Using Machine Learning and Deep Learning Techniques,4,Resources
+4561,How can I optmize the SVR parameters using GWO,5,Techniques
+4562,Big data courses,0,Career
+4563,QlikView & Tableau vs. traditional BI systems - how are they different?,6,Tools
+4564,Histograms in the post Kaggle Bike Sharing Demand Prediction - How To Get In Top 5 Of Competition,5,Techniques
+4565,Should I use Bar or Line chart to show trend in Qlikview?,6,Tools
+4566,How to interpret the result of bagging,6,Tools
+4567,Analytics without Business knowledge?,0,Career
+4568,Deployment and Implementation of Predictive models into Production?,5,Techniques
+4569,MySQL server reporting services,6,Tools
+4570,Backtracking optimization,5,Techniques
+4571,How to extract date time information from timestamps in R,6,Tools
+4572,How can we use Textual data variables for modeling?,5,Techniques
+4573,KNN Skill test Q.13,5,Techniques
+4574,Career shift from .NET to Analytics,0,Career
+4575,(sentenceBERT) Why 'Doc2Vec object doesn't have 'encode' attribute and the associated solution,1,Hackathons
+4576,Difference in the BA courses offered by IIT-D & IIM-C,0,Career
+4577,Practice Problem Intel Scene Classification Challenge,1,Hackathons
+4578,Recommendation system evaluation,1,Hackathons
+4579,Hadoop Basics and its commands,0,Career
+4580,Data science for a Data Warehousing Engineer ( Test Analyst),0,Career
+4581,What are the packages in R to do dimensionality reduction?,5,Techniques
+4582,What is the difference between collaborative and content based recommendation system?,6,Tools
+4583,Scoring - Text classification,5,Techniques
+4584,Career switch from teaching to analytics,0,Career
+4585,Can i enroll in the new big data hackathon from sapient?,1,Hackathons
+4586,30-questions-test-tree-based-models,5,Techniques
+4587,How to create a waterfall chart in Tableau?,6,Tools
+4588,Casino Workshop-Explanation to Workshop Problems,0,Career
+4589,Beginner’s Guide on Web Scraping in R (using rvest) with hands-on example,5,Techniques
+4590,Career growth of a business analyst and data scientist?,0,Career
+4591,KeyError in the below attached code,1,Hackathons
+4592,What are the deliverables for a data scientist?,0,Career
+4593,"Factor Variables in Random Forest, XGBoost",5,Techniques
+4594,Not able to execute the following code in python version '3.5.1',6,Tools
+4595,How to predict the outcome of elections in a multi-party setup?,5,Techniques
+4596,Multiscale analysis and fractal arrival theories for Call Center Forecasting,5,Techniques
+4597,What is Concordance Index?,5,Techniques
+4598,What kind of work culture does Fractal Analytics follow?,5,Techniques
+4599,How to impute categorical missing values?,5,Techniques
+4600,Suitable Forecasting techniques,5,Techniques
+4601,How to read multiple url files at one go in python?,6,Tools
+4602,What is bagging and boosting,5,Techniques
+4603,Sample RFP ( Request For Proposal) ? Regarding Data analytic and Business Intelligence,0,Career
+4604,How to find the contributing features of each tree in Random Forest Classifier in Python,6,Tools
+4605,Dataset for completed hackathons,5,Techniques
+4606,Career path for Data science & CFA?,0,Career
+4607,Need help analysing data,1,Hackathons
+4608,Phd in data analytics,0,Career
+4609,Explanation at the end of the Hackathon,1,Hackathons
+4610,"What is the Purpose of doing t test ,z test in machine learning",5,Techniques
+4611,Algorithms used in 'Shoppertrak' type applications,5,Techniques
+4612,Which package to use in R 3.2.2 for sentiment analysis,5,Techniques
+4613,Model Validation Techinques For R (Logistic Regression),5,Techniques
+4614,How are weights calculated for linear regression?,5,Techniques
+4615,Need Help on Dealing with IT operational Incident data.,5,Techniques
+4616,Can several(3-5) random forests be combined for better classification,5,Techniques
+4617,Extracting data from strings (in R),6,Tools
+4618,What is the best way to use categorical variables in a decision tree model?,5,Techniques
+4619,Python guide to start with data science and NLP,0,Career
+4620,Data Science Jobs in Pune,0,Career
+4621,Can a QlikView developer be a Qlik Sense developer?,6,Tools
+4622,How R creates levels of a character variable?,6,Tools
+4623,How to use PCA technique to build classification model,5,Techniques
+4624,Loan Prediction - Data Conversion Warning,1,Hackathons
+4625,How the number of observation and number of predictors affect the flexibility of the model?,5,Techniques
+4626,Hypothesis testing,5,Techniques
+4627,How to find accuracy of K means or any other Clustering algorithm?,5,Techniques
+4628,Data Science in Scala and Spark,0,Career
+4629,Create customer persona in machine learning,5,Techniques
+4630,Face Recognition Deep learning,5,Techniques
+4631,How to work with strsplit?(R),5,Techniques
+4632,How can I stop user to enter space at the begin and end of the string in Excel?,5,Techniques
+4633,Files in keras_script.py,5,Techniques
+4634,Business Analyst or Data Science as a Career,0,Career
+4635,What does the summary of PCA signifies,5,Techniques
+4636,How to load rolling Period data in Qlikview,6,Tools
+4637,Web scrapping using R: Auto updating forms,5,Techniques
+4638,Am getting NAN error when working on loan prediction problem,1,Hackathons
+4639,How to Become a Data Visualization Expert,0,Career
+4640,All in one Big Data and Analytics Training,0,Career
+4641,Dealing zeros in log transformation,5,Techniques
+4642,Please help me getting some good docs/materials on Pricing Analytics for Telecom Industry,4,Resources
+4643,How to populate all dates between two date in SAS?,6,Tools
+4644,LTFS Hackathon Data set query,1,Hackathons
+4645,Compact Prediction Tree library,5,Techniques
+4646,How doe Maximum Likelihood estimation work in Logistic regression,5,Techniques
+4647,Career Path in data science / analytics,0,Career
+4648,Loading csv file in python error,6,Tools
+4649,Data Engineering Case Interview Resources?,4,Resources
+4650,Hackathon Solutions,1,Hackathons
+4651,To predict Product Order Quantity by Regression,5,Techniques
+4652,Measure two performances over time,5,Techniques
+4653,Abstractive algorithm for Text summarizer of huge text document/Long email chain,5,Techniques
+4654,What do you mean by in-memory data processing when it comes to Qlikview,6,Tools
+4655,What is the attribute independence problem in Naive Bayes classifier?,5,Techniques
+4656,Time Series Sales forecasting- Techniques and Approach,5,Techniques
+4657,Computing eigenvectors for PCA,5,Techniques
+4658,Layers in a neural network,5,Techniques
+4659,Claim Rejection Classification Problem,5,Techniques
+4660,How to improve Time series model (ARIMA) in Python?,5,Techniques
+4661,Calculate Entropy for Decision Tree,5,Techniques
+4662,Problem in Fast R-CNN,5,Techniques
+4663,What does the Error : factor Loan ID has new level mean,6,Tools
+4664,Replacing missing value with mean,1,Hackathons
+4665,Need job change in Data Analyst,0,Career
+4666,Face Detection using Python,5,Techniques
+4667,How to view the slack discussion,3,Other
+4668,Can a bad coder become a good data scientist?,0,Career
+4669,Identify all feature having missing value in Pandas Dataframe,1,Hackathons
+4670,Error while reading a csv file in pandas,6,Tools
+4671,File for test or training in An Introduction to PyTorch – A Simple yet Powerful Deep Learning Library,6,Tools
+4672,Why to use odd value of k in knn algorithm,5,Techniques
+4673,Need Help @Seers_Accuracy,1,Hackathons
+4674,K-means clustering,5,Techniques
+4675,How to check for Stability of a model,5,Techniques
+4676,Unable to do submission in black_friday hackathon,1,Hackathons
+4677,Data preperation,0,Career
+4678,Add comments section on Meetup Registration page,5,Techniques
+4679,How can we find seasonal order for SARIMA?,5,Techniques
+4680,Which Logistic Regression model should be selected among several models?,5,Techniques
+4681,Career Shift from Mainframe,0,Career
+4682,My Solution - score 1080,1,Hackathons
+4683,What are some Unsupervised Machine Learning algorithms other than Clustering?,5,Techniques
+4684,Theano on Windows,5,Techniques
+4685,Analytics career for a Business Intelligence test lead person?,0,Career
+4686,Error while plotting overlaid histograms in R using ggplot2,6,Tools
+4687,Remove Leading and Trailing spaces from all cells of Excel,5,Techniques
+4688,What data/analytics tools I need to use at my current e-commerce workplace?,6,Tools
+4689,How to handle categorical variables in Logistic Regression?,5,Techniques
+4690,(Data Science + Big Data) in Jigsaw academy,0,Career
+4691,Missing value imputation,1,Hackathons
+4692,How can we treat missing datas in pandas dataframe through deletion in python?,6,Tools
+4693,H2O model for Production deployment,6,Tools
+4694,Unsupervised Learning For Stocks,5,Techniques
+4695,How to identify last record of SAS data set?,6,Tools
+4696,Installation Of TensorFlow in docker,6,Tools
+4697,Is there a seperate Campaign Data file?,6,Tools
+4698,Weather Prediction Algorithm,5,Techniques
+4699,What is the research methodology of text classification project?,5,Techniques
+4700,How to connect to SOAP API using R?,6,Tools
+4701,Any reference for end to end process for forecasting/timeseries modelling?,5,Techniques
+4702,Guidance on Python learning,4,Resources
+4703,Best resources related to statistics for data science,4,Resources
+4704,Pursuing career in data science for mechanical engineer,0,Career
+4705,Which course to take for Data Science?,0,Career
+4706,Switching to an analytics career - Confused,0,Career
+4707,Increase sales and reduce cost,6,Tools
+4708,Reviews of Business Analytics Certificate Online Course from EduPristine,0,Career
+4709,Institutes for Business analytics course on weekend/ part time basis,0,Career
+4710,Which chart you will recommend for market research (product survey)?,3,Other
+4711,Seer's Accuracy ! Dependent variable,5,Techniques
+4712,How to avoid self-fulfilling prediction in recommendation systems?,5,Techniques
+4713,Usage of Principle Component Analysis for Continous and categorical Variables mixed dataset,5,Techniques
+4714,How to start iPython interface in Inline Pylab?,6,Tools
+4715,"Machine Learning_Predict Stock Price with R_2nd May, 2016",5,Techniques
+4716,Setting the labels for columns of a data table from another table in R,6,Tools
+4717,Multivariate Time series Modelling,5,Techniques
+4718,Installing R script with node.js,6,Tools
+4719,How to calculate error in rpart in r,6,Tools
+4720,Residual Plot for regression,5,Techniques
+4721,Spend Analytics Vs Biostatistics in India,0,Career
+4722,Different train and test set data lebels for categorical data,5,Techniques
+4723,Association Rules to suggest new courses in e-Learning,5,Techniques
+4724,Assumption of same mean in Pooled Variance,5,Techniques
+4725,How is the faculty of MISB Bocconi's Executive Business Analytics Program?,0,Career
+4726,"EDA for bikes ,Cristiano Ronaldo and several other small datasets for beginners",4,Resources
+4727,Object dtype instead of float,5,Techniques
+4728,Can we use the z- statistic when sample size is large but population variance is unknown,5,Techniques
+4729,Faq chatbot using python,6,Tools
+4730,C5.0 model doesn't work in R,5,Techniques
+4731,Need help in understanding data- Item MRP vs Item Outlet Sales scatterplot is interesting!,5,Techniques
+4732,ARMA Modelling of Real Time Data,5,Techniques
+4733,Non - Gaussian Distribution,5,Techniques
+4734,How to check Concordance percentage in logistic regression while runing SPSS,6,Tools
+4735,Effects of outliers on regression model?,5,Techniques
+4736,How to produce effect of more than one variable to the output value in linear regression,5,Techniques
+4737,Error in using GBM in multinomial prediction,5,Techniques
+4738,Sérindipité Non Personalised Recommender Systems,5,Techniques
+4739,Imputing missing values for Stock Market,5,Techniques
+4740,"Big Data, Machine Learning and Scientific computing libraries for Go Language?",5,Techniques
+4741,Deep Learning for Invoice Information Extraction,5,Techniques
+4742,Features at a higher resolution than the Dependant variable,5,Techniques
+4743,Regarding Creating summary function,6,Tools
+4744,Object detection algorithms,5,Techniques
+4745,Data Reading Error In Market Basket Analysis,5,Techniques
+4746,"How to fill missing values for ""Credit History"" in Loan Prediction Problem",1,Hackathons
+4747,Regarding MSc in Data Science from Chennai Mathematical Institute,0,Career
+4748,What to do when my maximum KS statistic is in the 7th or 8th decile in Logistic regression?,5,Techniques
+4749,Lag Removal in Time Series,5,Techniques
+4750,What does P(B|A) =f(A;w) mean?,5,Techniques
+4751,How to handle 'NaN' Values in Dataframe,1,Hackathons
+4752,Freelance jobs for Analytics,0,Career
+4753,Wandering In Data Science,0,Career
+4754,Machine Learning Project on Imbalanced Data,4,Resources
+4755,How to model rare even population in classification problem,5,Techniques
+4756,Big-data hadoop question,5,Techniques
+4757,Hands on with Deep Learning- Solution for Age Detection Practice Problem,1,Hackathons
+4758,How to resolve :Enthought Canopy: User-defined module not getting updated in code,6,Tools
+4759,Time Series Forecasting for irregular time series in R,5,Techniques
+4760,Has any one tried installing LuaTorch in Ubuntu,6,Tools
+4761,How to convert a CSCmatrix or dgCMatrix into dataframe?,6,Tools
+4762,Why can't the t-distribution exceed standard normal distribution?,5,Techniques
+4763,How to predict natural disaster using deep learning?,5,Techniques
+4764,Which algorithm is best for text classification into 400 categories?,5,Techniques
+4765,Algorithm for segmentation of categorical variables?,5,Techniques
+4766,Predictions for Kaggle Bike sharing prediction using R,5,Techniques
+4767,HELP NEEDED! Running an ipython notebook itneractively from github on uploaded train and test data there,6,Tools
+4768,Difference between R-square and Adjusted R-Square?,6,Tools
+4769,Sharing the approach for MiniHack-Time Series Problem!,5,Techniques
+4770,How to learn NLP by practicing? Any learning path for this?,0,Career
+4771,Error in Final Submission of Code and CSV file,1,Hackathons
+4772,Significance of bias-variance trade-off,5,Techniques
+4773,What are some libraries in R similar to the BeautifulSoup package in Python?,6,Tools
+4774,Energy consumption and temperature,5,Techniques
+4775,Should I train multiple classification models on the same data,5,Techniques
+4776,Jigsaw data science with R foundation course,0,Career
+4777,Qlikview - How to associate the objects,6,Tools
+4778,Guidance for embracing deep learning,4,Resources
+4779,Need help with rmongodb and date field filter criteria,1,Hackathons
+4780,SAS data decile making,6,Tools
+4781,Top Features are not correct as per Optimization process of business,5,Techniques
+4782,In XGBoost the next tree is trained on the residual of previous tree as independent variable or the original independent variable itself?,5,Techniques
+4783,Forecasting ATM Dispense,5,Techniques
+4784,Error while predicting data,5,Techniques
+4785,Genetic programming illustration in R,6,Tools
+4786,Laptop Suggestion,4,Resources
+4787,Text data cleaning and preprocessing steps,5,Techniques
+4788,Does outlier treatment come first or missing value imputation?,5,Techniques
+4789,Multi Classification Problem,5,Techniques
+4790,Cross Validation from sklearn,5,Techniques
+4791,Resources to learn D3.js,4,Resources
+4792,Difference between Bagging & Boosting and how these help,5,Techniques
+4793,How to study relationship between two categorical variables when number of categories is very high?,5,Techniques
+4794,How to sort the data of a Data frame in descending order in python,6,Tools
+4795,Discussions for article “Loan Prediction using Machine Learning”,3,Other
+4796,Data Hackathon Online (11th & 12th July 2015) - Register Here,1,Hackathons
+4797,"Getting an error 'ValueError: bad input shape (1906, 38)' when applying logistics regression model",5,Techniques
+4798,Cross_validation,5,Techniques
+4799,Multivariate time series - understanding “contribution” of independent variables,5,Techniques
+4800,How to recommend in this case?,3,Other
+4801,Data science probability question,0,Career
+4802,Shaplet Mining algorithm(Time Series Sub sequence)!,5,Techniques
+4803,Customer's loyalty forecast,5,Techniques
+4804,kerberos spnego authentication not working for ambari hadoop server rest api url.,6,Tools
+4805,How to use polynomial kernel in SVM using R,5,Techniques
+4806,Explain auto correlation for time series data,5,Techniques
+4807,Interpolation vs Regression Analysis,5,Techniques
+4808,Experiments with Data Workshop doubts,3,Other
+4809,Missing values in target variable,5,Techniques
+4810,How can I plot Longitude and Latitude on Google Map in Python?,6,Tools
+4811,How to forecast monthly time when we have only one year data?,5,Techniques
+4812,Tranformation of kurtoctic data,0,Career
+4813,ISI Chennai Seeking Feedback on BA Crash Course Schedule,0,Career
+4814,Bookmark articles,3,Other
+4815,Text mining DTM,5,Techniques
+4816,How to construct the path to file in R,6,Tools
+4817,How to calculate Population SD and Variance using SAS?,6,Tools
+4818,H2o data frame error,6,Tools
+4819,Supervised Principal Components,5,Techniques
+4820,Credit risk models,5,Techniques
+4821,Setting up the target variable in a classification problem,5,Techniques
+4822,Should I go for Data Analyst profile if I'm good with the tools but poor in analysis?,0,Career
+4823,How to improve linear regression model performance?,5,Techniques
+4824,Jigsaw Academy BigData Course,0,Career
+4825,What is the value of cex signifies in biplot function during PCA in R,5,Techniques
+4826,Ensemble of Ensembles,5,Techniques
+4827,Chi Square/ Mcnemars or Cochran's Q test for dependent groups,5,Techniques
+4828,How to see arguments of a function in R?,6,Tools
+4829,Require a flow diagram for the given problem,5,Techniques
+4830,Random Forest parameter,5,Techniques
+4831,Not able to install caret package,6,Tools
+4832,Label Encoding in R,5,Techniques
+4833,Predicting price of product based on historical data of other products,5,Techniques
+4834,Error while installing new package from Github,6,Tools
+4835,Select rows based on conditions of different columns in R,6,Tools
+4836,Why we normalize the loading's of the principal component?,5,Techniques
+4837,Error installing RCurl in R,6,Tools
+4838,How to find similar email address using NLP,5,Techniques
+4839,R coding in rmarkdown,6,Tools
+4840,Clustering and R and time component,5,Techniques
+4841,Courses providing Real Life Projects to build your portfolio,0,Career
+4842,Could we determine the range of the prediction scores in the content based filtering recommendation system?,5,Techniques
+4843,How to reduce False Positive and False Negative in binary classification,5,Techniques
+4844,Multivariate Forecasting,5,Techniques
+4845,Extract data from another variable using R,6,Tools
+4846,Scraping Website with more than 300 pages,5,Techniques
+4847,Which class the logistic regression's probabilities belong to?,5,Techniques
+4848,"Python, R vs 19 Data Science Tools for people who aren’t so good at Programming",6,Tools
+4849,How to convert a table (mXn) to a list of lists (rows of the table mentioned)?,6,Tools
+4850,Data analysis and correlations,5,Techniques
+4851,How to start and where to start?,6,Tools
+4852,MaskRCNN 1 class car damage detection: How to apply on new images (similar to demo.ipynb)?,6,Tools
+4853,How to analyse credit card approval rate?,5,Techniques
+4854,Tutorial for Sentiment Analysis on Twitter,1,Hackathons
+4855,Convert rgb images and corresponding labels into a csv file,6,Tools
+4856,Does having categorical dependent variables along with categorical independent variables in the dataframe make any difference in finding the correlation between independent variables?,5,Techniques
+4857,Difference between WPS and SAS,6,Tools
+4858,How to install new packages in python while using Spyder IDE with Anaconda,6,Tools
+4859,DL based Face recognition model,5,Techniques
+4860,How to decide which models to combine for ensemble methods,5,Techniques
+4861,Why the Regression result is having same result as of Mean,6,Tools
+4862,Data Science/ Transition,0,Career
+4863,Visualization on cloud,5,Techniques
+4864,Decision Tree and Random Forest,5,Techniques
+4865,Error while running Python code,6,Tools
+4866,How can I translate Different languages in to English in R?,5,Techniques
+4867,Need Assistance in learning Data Science,0,Career
+4868,Team Formation for datafest : The Seer's Accuracy,1,Hackathons
+4869,Overfitting and underfitting,5,Techniques
+4870,Fraud predictive model,5,Techniques
+4871,How does decision tree classifier split using continuous varaible?,5,Techniques
+4872,Predicting mobile data usage,5,Techniques
+4873,Structured Equation Model(SEM),5,Techniques
+4874,How to export data into json format using R?,6,Tools
+4875,Creating Dummy Variables in R,1,Hackathons
+4876,Changes not reflected in the output while creating a shiny web app in R,6,Tools
+4877,How can i venture into data science and analytics from life sciences research?,0,Career
+4878,Unable to form categorical groups,5,Techniques
+4879,Introduction to Python course - Plotly,6,Tools
+4880,Missing value treatment by using arrays in SAS?,5,Techniques
+4881,Confused between SAS certification and Hadoop course,0,Career
+4882,Solutions for hackathons,1,Hackathons
+4883,Hackathon: Black Friday: Error in uploading the file,1,Hackathons
+4884,Why I am getting log(12) value as 2.484907 in my R console. Can some one please assist me. This might be a silly question but eager to know,5,Techniques
+4885,Help needed to predict expected sales per customer for the Dec 2017 based on past data available,5,Techniques
+4886,CooksD and Studentized Residual statistics,5,Techniques
+4887,Deployment of machine learning model developed in R for production,5,Techniques
+4888,Is robust regression less sensitive towards outlier and how?,5,Techniques
+4889,Seeking your advice regarding Data Science Courses in India,0,Career
+4890,"AIC, BIC, Mallow's Cp, etc",5,Techniques
+4891,What does min_samples_split means in decision tree?,5,Techniques
+4892,The Smart Recruits Hackathon Discussion,1,Hackathons
+4893,Predicting whether the stock will go up or down,5,Techniques
+4894,What is the difference between softprob and softmax in Xgboost,6,Tools
+4895,What is the role of Data analyst/Business analyst?,0,Career
+4896,Change text color or highlight text with multiple colors in PDF using python,6,Tools
+4897,PG Diploma in Big Data Analytics,0,Career
+4898,Fitting ARIMA - Should you use the original series or the transformed(stationary) series?,5,Techniques
+4899,What are the best hackathons in deep learninig for beginners?,4,Resources
+4900,What are different paths in data sciences?,5,Techniques
+4901,Data analytics or Business analytics or analysis path for MBA graduate with 5 years of IT experience,0,Career
+4902,Suggestion on Books and Aritcles,4,Resources
+4903,How can i see the weights in boosting in R,5,Techniques
+4904,How to improve Accuracy of Decision Tree / Random Forest,5,Techniques
+4905,What do you meant by mis-matched factor levels?,5,Techniques
+4906,What are the career opportunities for a Hadoop admin?,0,Career
+4907,Which supervised learning system would you use?,5,Techniques
+4908,What is the Box-Cox transformation applied during PCA in R using the caret package,5,Techniques
+4909,What is feasible with machine learning and object detection?,5,Techniques
+4910,How to use break function to break the data by a specific point?,6,Tools
+4911,Click Prediction - Visualize click and Convert data,5,Techniques
+4912,How to interpret the result of a logistic regression model?,5,Techniques
+4913,“Error in sort.list(y) : 'x' must be atomic for 'sort.list',6,Tools
+4914,Why the value of Coefficient of variable is different when it used as single variable as compared to multivariable model,5,Techniques
+4915,Jobs in Data Science,0,Career
+4916,Transforming Dataframe in R...How to Categorize based on unique row values,6,Tools
+4917,Need help for Conditional enabling of Expression and Dimension in QlikView,6,Tools
+4918,Interpretation of performance of Naive Bayes Algorithm for binary classification,5,Techniques
+4919,Trouble with Reinforcement Learning,5,Techniques
+4920,How to automate analysis in R production environment?,6,Tools
+4921,The D Hack....Decode D Dalai Lama!,1,Hackathons
+4922,How do I shift from Sales background to Data Science,0,Career
+4923,SVM for continuous variables,5,Techniques
+4924,How to provide a custom stop-word list in R?,6,Tools
+4925,Giving results to the customers,6,Tools
+4926,Predict Future values(Time Series) using ARIMA,5,Techniques
+4927,Which Dimentionality Reduction to use for the given problem?,5,Techniques
+4928,How to tune warm_start parameter of RandomForest?,6,Tools
+4929,R programming in Lubuntu OS,6,Tools
+4930,Generating a multivariate time series model with some of the underlying trends,5,Techniques
+4931,RStudio crashing while ?help,6,Tools
+4932,Question for Toppers ( Data Hackathon 3.0 ),1,Hackathons
+4933,How to write functions for calculating Euclidean distance and mahalanobis distance?,5,Techniques
+4934,Best books for data Engineering,4,Resources
+4935,Confidence and prediction intervals using lm() in R,5,Techniques
+4936,How to avoid overfitting in Prediction?,5,Techniques
+4937,Methods to deal with zero values while performing log transformation of variable,5,Techniques
+4938,Finding an Indian final year graduation student to team up for a university competition sponsored by SAS,0,Career
+4939,"Information on Mapreduce, hive and pig",5,Techniques
+4940,Seeking Career guidance to switch from Oracle Developer to Analytics,0,Career
+4941,Problem while solving Big Mart problem using Linear Regression,5,Techniques
+4942,Need help with removing duplicate characters with Regex,1,Hackathons
+4943,How LSF and DDS Techniques work?,5,Techniques
+4944,Interpret rfImpute output,6,Tools
+4945,Import first 20 records of excel to SAS,6,Tools
+4946,"Populate world countries, region. cities in other languages beside English",6,Tools
+4947,Data set for developing conversational CHATBOT,5,Techniques
+4948,How to get data from twitter without a search query,1,Hackathons
+4949,How to use data.matrix in R,6,Tools
+4950,What is the difference between Ridge and Lasso regression?,5,Techniques
+4951,How to resolve R SVM Text classification error,5,Techniques
+4952,Can we create a mobile or web based app using python?,6,Tools
+4953,Require Cross Sale data in Insurance/Banking Domain!,0,Career
+4954,How K-fold Cross-validation helps in improving the model?,5,Techniques
+4955,Which machine learning model is best for this scenario?,5,Techniques
+4956,Modified Regression Tree,5,Techniques
+4957,How to plot nomograms in R for Naive Bayes classifier,5,Techniques
+4958,Mask RCNN inference on Nvidia GTX 750 Ti,5,Techniques
+4959,How to approach Data when a given statement turns out to be False,5,Techniques
+4960,"Getting error ""Error in .jcall(rp, ""I"", ""fetch"", stride, block) : java.lang.OutOfMemoryError: GC overhead limit exceeded""",6,Tools
+4961,Code not working and scipy version not compatible with scikit.ml 0.0.5,6,Tools
+4962,What is the difference between Neural Network and bunch of Logistic Regression put together?,5,Techniques
+4963,Getting 0.0 score on file submission,1,Hackathons
+4964,All in one Text processing Techniques,5,Techniques
+4965,How to print value in list in R,6,Tools
+4966,TypeError on trying ULMFiT and fastai tutorial,6,Tools
+4967,Need of a Mentor/Guide,0,Career
+4968,Image classifier,5,Techniques
+4969,What does zero index signify in R?,5,Techniques
+4970,Kernel SVM for a classifier model,5,Techniques
+4971,Logistic Regression Techniques,5,Techniques
+4972,How to change the colour of the legend by using condition,6,Tools
+4973,How does the Recursive Feature elimination(RFE) works and how it is different from Backward elimination?,5,Techniques
+4974,Naive Bayes- Loan Prediction,1,Hackathons
+4975,Clustering Ordinal/Categorical data,5,Techniques
+4976,Finding a bottleneck using root cause algorithm,5,Techniques
+4977,How to improve the performance of a decision tree?,6,Tools
+4978,Approach and Solution to break in Top 20 of Big Mart Sales prediction,1,Hackathons
+4979,Noobie to analytics,0,Career
+4980,Adaboost: Unstable Output,5,Techniques
+4981,Confusion matrix plot - 10x10 matrix,6,Tools
+4982,Casual and mechanistic statistics,5,Techniques
+4983,How to pass multiple index arrays in Ipython,6,Tools
+4984,How to give labels to predictions instead of probabilities in logit in R,5,Techniques
+4985,How to specify the data type of array in Ipython,6,Tools
+4986,How to predict values for test dataset after building an lm.ridge model in R?,5,Techniques
+4987,What are ACF and PACF curves? Why do we use them?,6,Tools
+4988,Shit from ETL to Public Policy Research and now contemplating a Transition to Data Analytics,0,Career
+4989,How to impute or do r bind lists in for loop?,6,Tools
+4990,Read a Specific Column from Excel in Python,6,Tools
+4991,Time series forecasting help,5,Techniques
+4992,What CSV file should we submit as solution to contests?,1,Hackathons
+4993,Predict future attrition with survival analysis,5,Techniques
+4994,How to resolve error while connecting to twitter api in R,6,Tools
+4995,How to create unique ID's in SAS,6,Tools
+4996,Data Science - Career Shift (From Mech Engg to Data Science),0,Career
+4997,Regarding Game theory,5,Techniques
+4998,Score of Python Skill Test,6,Tools
+4999,How do I convert a character field to date/time format in R?,6,Tools
+5000,Use of Hadoop in Machine Learning,5,Techniques
+5001,Discussion: Business value of augmented analytics,0,Career
+5002,Frequency of a value under more than one variable in SAS,6,Tools
+5003,"Could not find function > ""xgb.DMatrix"" in R",6,Tools
+5004,Random Forest -decide variable Importance,5,Techniques
+5005,Why is XGBoost Predicting unseen values?,5,Techniques
+5006,Need Help: Criteria to create a Risk score,1,Hackathons
+5007,Why do we factorize variables in R ? What is the benefit of doing so?,6,Tools
+5008,KNN Question @30-questions-test-k-nearest-neighbors-algorithm,5,Techniques
+5009,Can anyone help in Understanding the Bias-Variance Tradeoff for a machine learning model?,5,Techniques
+5010,How to use tf-idf feature of scikit-learn?,5,Techniques
+5011,Finetuning GPT-2 twice for particular style of writing on a particular topic,5,Techniques
+5012,Data Linking in R,0,Career
+5013,Dealing with multiple levels in Qualitative Data in Machine Learning,5,Techniques
+5014,Parsimony principle,5,Techniques
+5015,Asymmetric costs in regression,5,Techniques
+5016,How to find percentage of total with groupby pandas,6,Tools
+5017,Deep Learning Tutorial to Build your own Video Classification Model,4,Resources
+5018,How to remove entire row of missing values from a Data Frame in python?,6,Tools
+5019,How to close a file in python,6,Tools
+5020,How to select ML model when we have 5 classification output variable,5,Techniques
+5021,Is there any print Magazine version or sort of print media where we can find out latest Data Science and Analyst updates etc.?,0,Career
+5022,How should I prepare to participate for Data Science Hackathon?,0,Career
+5023,Downloading tweets for Twitter Sentiment Analysis,1,Hackathons
+5024,Sas procedures and functions,6,Tools
+5025,How to predict Mobile data offloading?,5,Techniques
+5026,How to use Vowpal Wabbit in Python,6,Tools
+5027,Problem in making submission,1,Hackathons
+5028,How to Deal/Work with Dates in Classification Problem of Purchasing Y over X features using R language,5,Techniques
+5029,Not able to plot in IPython (in Ubuntu),6,Tools
+5030,Welcome to Practice Problem : Time Series Analysis,5,Techniques
+5031,How to extract Weights in R Mclust package?,6,Tools
+5032,May I know how to visualize the tree model generated in mlr classif.rpart or is it possible to print the tree rules,5,Techniques
+5033,Please suggest topics in statistics relevant to a data scientist,0,Career
+5034,What is Apriori Algorithm? Can some one explain in simple terms?,5,Techniques
+5035,What does the drop=F argument in a matrix do in R?,6,Tools
+5036,"How Can I Automate The Following: Sort an entire table based on one column, and then count the values in another column",6,Tools
+5037,Inverse Differencing a time series,5,Techniques
+5038,Multiclass Classification in R,5,Techniques
+5039,How to improve use of data augmentation,5,Techniques
+5040,How to display top 5 sales person name in Qlikview Dashboard?,6,Tools
+5041,What does lazy means in the tm package in R,5,Techniques
+5042,Decision Tree with Continuous Variables,5,Techniques
+5043,Generating average values on dictionary of datasets,6,Tools
+5044,How to Display corresponding sheets in Tableau Dashboard?,6,Tools
+5045,How to do Inventory Forecasting using R,5,Techniques
+5046,Debugging in R (function in R),6,Tools
+5047,Understanding Back-propagation algorithm in Neural Network,5,Techniques
+5048,Predict 1st day of 147th week,5,Techniques
+5049,Error while making predicition using a logistic regression model,5,Techniques
+5050,Howto use SVD when matrix of very large data in R,6,Tools
+5051,Minimax Probability Machine Regression(MPMR),5,Techniques
+5052,How can I test if my logistic regression model is the best one?,5,Techniques
+5053,How is Pricing strategy for credit cards made effective using Predictive analytics(Regression Analysis)?,5,Techniques
+5054,How many clusters are enough in k-means clustering?,5,Techniques
+5055,Change scale of a plot in seaborn(Python)?,6,Tools
+5056,How to present transformed factors to clients?,5,Techniques
+5057,How to delete existing level of a categorical variable?,5,Techniques
+5058,How to predict class labels using xgboost in python when objective function is binary:logistic,6,Tools
+5059,R implementation of FTRL and Vowpal wabbit,5,Techniques
+5060,How to create a TermDocument matrix in python,6,Tools
+5061,Which simulations are being considered for traditional data science algorithms?,0,Career
+5062,How to use ML to predict the age at which rail will fail?,5,Techniques
+5063,Why doesn't Exception Handling work in some cases,5,Techniques
+5064,Plausible error in RMSE calculation by server,5,Techniques
+5065,Error - unable to read the csv file in pandas,6,Tools
+5066,Only test specific combinations of Hyperparameters Keras Tuner,5,Techniques
+5067,Packages to impute the missing values in R (other than MICE),6,Tools
+5068,Help regarding whether to choose intern programs or fresher jobs for data scientist roles,0,Career
+5069,Manual Ordering,5,Techniques
+5070,Which algorithms are good for Multiclass classification problems?,5,Techniques
+5071,Linear Regression,5,Techniques
+5072,Parameter estimation of MCAR model with R,5,Techniques
+5073,How can I show last reload time in Qlikview?,6,Tools
+5074,Which multi objective optimization technique is used by K-Means clustering? And can someone share some information about the optimization technique?,5,Techniques
+5075,Test the best-fit distribution and return parameter and 'p' values,5,Techniques
+5076,A Complete List of Important Natural Language Processing Frameworks you should Know (NLP Infographic),5,Techniques
+5077,Is linear regression fit for this data,5,Techniques
+5078,Difference in train and test values,5,Techniques
+5079,How to start project in data science,3,Other
+5080,R studio error : Error in x[[jj]][iseq] <- vjj : replacement has length zero,6,Tools
+5081,Private leader board ranking in mini data hack,1,Hackathons
+5082,How convergence is generated in K-means algorithm,5,Techniques
+5083,How to create Pivot table from two or more sheets in excel?,6,Tools
+5084,What you can do to make educational technology work for you?,0,Career
+5085,"""Error in unit(tic_pos.c, ""mm"") : 'x' and 'units' must have length > 0"" while using the qplot() function in R",6,Tools
+5086,Annotation timeline chart,6,Tools
+5087,Statistics for analytics,0,Career
+5088,Check Overftting of Model & Validate the model,5,Techniques
+5089,Installing R in the Amazon Cloud,6,Tools
+5090,Data Analysis and Visualization Application?,3,Other
+5091,Machine Learning / Data Science INTERNS,0,Career
+5092,Nround parameter in XGboost,5,Techniques
+5093,Clustering questions,5,Techniques
+5094,How to use dplyr for solving these questions,5,Techniques
+5095,Big _mart sell key error,5,Techniques
+5096,Share your approach - DataHack Premier League,1,Hackathons
+5097,How to perform machine learning on data that has multiple rows for one response value,5,Techniques
+5098,Need help in approaching an analytics interview question,0,Career
+5099,How to drop values from the column of a Data frame?,6,Tools
+5100,Applying for loop to pandas dataframe in python,6,Tools
+5101,Brand Engagement Score,1,Hackathons
+5102,Help me to understand P() and E() functions in Qlikview,6,Tools
+5103,PCA in Regression analysis,5,Techniques
+5104,Use of '=' in place of '<-' for assignment in R,6,Tools
+5105,How to generate repeated samples in R,5,Techniques
+5106,No Msc data science in India,0,Career
+5107,Sources for Heathcare related Data Sets,1,Hackathons
+5108,Data security with H20 in R,5,Techniques
+5109,How can we break link between tables in Qlikview?,6,Tools
+5110,Rpart.control to avoid overfitting,5,Techniques
+5111,Bacp from great lakes,0,Career
+5112,Eextending Faster R-CNN Algorithm for Object Detection,5,Techniques
+5113,How to do bagged logistic regression in R? plz reply it's urgent..:),5,Techniques
+5114,HEATMAPS correlation,5,Techniques
+5115,Difference between wide and long data format?,6,Tools
+5116,How to deal with R Code execution error,6,Tools
+5117,Can somebody please suggest project idea combing Machine Learning and Bioinformatics,4,Resources
+5118,Business analytics question,0,Career
+5119,Txt mining query,5,Techniques
+5120,Deeplab - Where to get the initial checkpoint file,6,Tools
+5121,Regarding the loan prediction problem,1,Hackathons
+5122,How do I calculate the log likelihood with variables in logistic regression in R,5,Techniques
+5123,Operations Research and Analytics,0,Career
+5124,How to profile a user,2,Misc
+5125,Python installation on windows,5,Techniques
+5126,Replaceing missing values using fillna gives an error,5,Techniques
+5127,What are some good reference materials for outlier treatment,5,Techniques
+5128,Stationarity : Dickey-Fuller Test,5,Techniques
+5129,How to resolve this kind of problem in time series?,5,Techniques
+5130,Clustering and then classification,5,Techniques
+5131,High volatile data - Time Series Analysis,5,Techniques
+5132,Sentence Similarity,5,Techniques
+5133,Help needed in this code while Stemming,6,Tools
+5134,Dressify Data in Logestic Regression,5,Techniques
+5135,Should the train and test data be combined before running an algorithm,5,Techniques
+5136,How to populate weekday from date (MMDDYYYY) in SAS?,6,Tools
+5137,Ideas for Personal Projects in R,2,Misc
+5138,Operations on train data vs the test data,5,Techniques
+5139,Valid Padding in Convolution Neural Networks,6,Tools
+5140,Need Help on Career Guidance,0,Career
+5141,Printing the tree after applying decison tree algo for classification in sklearn,5,Techniques
+5142,From where can I get data sets to practice modelling techniques?,5,Techniques
+5143,Maths use in Data Science and ML,5,Techniques
+5144,What are limitations of tree diagram?,5,Techniques
+5145,Why factor analysis are only applied to numeric data,5,Techniques
+5146,Future of Data Analytics in Lifescience and Clinical research,0,Career
+5147,Technique for modelling when number of responders are less,5,Techniques
+5148,Interactive visuals,6,Tools
+5149,Regarding Certificate course from MIT(Massachusetts Institute of Technology),0,Career
+5150,How to implement SVM algorithm in R?,5,Techniques
+5151,Different evaluation metrics for Regression Models,5,Techniques
+5152,Error in running GBM,5,Techniques
+5153,Career in Analytics post MBA from IIM / Tier I institute,0,Career
+5154,How to ask question to the write of the specific article / K Means clustering,5,Techniques
+5155,On what basis any algorithm is selected?,5,Techniques
+5156,How to connect TM1 REST API to R,6,Tools
+5157,"Loan Prediction, Reveal Your Approach",1,Hackathons
+5158,Need List of journals that give response to authors submitting their articles,6,Tools
+5159,Predict what is the likelihood of winning a open deal this quarter (in next 90 days) or moving out to future quarters,6,Tools
+5160,How to select the optimum number of dimensions after applying LSA in R,5,Techniques
+5161,"Importance of SAS skills and certification for a career in Fortune 500 organizations?(Predictive modeller, Enterprise Miner etc)",0,Career
+5162,How to generate binary random normal variates in R,6,Tools
+5163,Getting a Warning message while reading the twitter timeline in python,6,Tools
+5164,Query on blog - regression analysis and assumptions,5,Techniques
+5165,What is bias in a machine learning algorithm?,5,Techniques
+5166,Deploying predictive Python Model for user access,6,Tools
+5167,What is the best way for vectorizing a dataset having text features and numeric feature in it?,5,Techniques
+5168,ReactJS VS React Native,5,Techniques
+5169,Facing Problem in submission in Big Mart Practice DataSet,1,Hackathons
+5170,Why merging in python using pandas is faster than data.table in R?,6,Tools
+5171,Memory Error - A Comprehensive Guide to Understand and Implement Text Classification in Python,5,Techniques
+5172,Transformations to convert left and right skewed distributions into normal,5,Techniques
+5173,How to combine two list of list in python without duplicates?,6,Tools
+5174,Error in code for Time Series Forecast (in Python),6,Tools
+5175,Is my profile strong enough get a data scientist role,0,Career
+5176,Prediction using ridge regression,5,Techniques
+5177,Analysis of road accidents in New York,5,Techniques
+5178,"Handling large data files in python with low RAM low resource, creating large datafiles at local PC from SQLserver database using Python / ODBC",6,Tools
+5179,Json to R dataframe data extraction error,5,Techniques
+5180,Xgboost feature importance,5,Techniques
+5181,Automation threat to career in analytics versus its augmentation with Machine Learning,0,Career
+5182,Introduction to Convolution Neural Networks,6,Tools
+5183,How to regress VAR model with few parameters to estimate?,5,Techniques
+5184,Data Analyst in Market Research,3,Other
+5185,Valid events in json format,5,Techniques
+5186,Startups in Data Science,0,Career
+5187,How to map 1000+ unique occupation/professions to standard occupation names,6,Tools
+5188,What is the difference between prcomp and princomp for PCA in R,5,Techniques
+5189,Conversion functions in SAS,6,Tools
+5190,Why is one category predicted more accurately than the other in ada,5,Techniques
+5191,How can I create bins for a numerical variable in Qlikview?,6,Tools
+5192,Missing value Imputation in R,1,Hackathons
+5193,How can someone start learning about image recognition algorithms? What are the best tools/techniques and research paper for it?,4,Resources
+5194,How to extract the hashtags from a tweet in R,6,Tools
+5195,Image classification vs Video classification,5,Techniques
+5196,Data set source for sentiment analysis project?,5,Techniques
+5197,Unable to submit solution,1,Hackathons
+5198,Can SVD be performed in categorical data,5,Techniques
+5199,Video Anomaly Detection Tech`s,4,Resources
+5200,Better way to replace expressions in Regex,5,Techniques
+5201,Showcasing one's work,5,Techniques
+5202,How to create Gauge chart in Excel?,6,Tools
+5203,Beginner question about how to faithfully quantify an awkward data measurement,5,Techniques
+5204,Book for learn and improve structured thinking,4,Resources
+5205,XML to CSV conversion,5,Techniques
+5206,EXCEL Cheat Sheet,6,Tools
+5207,What are major difference between split and loop function in R,6,Tools
+5208,How to improve score of an Binary Classification model (Attrition) with Imbalanced Data?,5,Techniques
+5209,Scope of Analytics Startups catering to Digital India or Smart City,0,Career
+5210,Predict customer worth for Happy Customer Bank Techniques,5,Techniques
+5211,RHadoop and Machine Learning,5,Techniques
+5212,Extracting keywords from pdf file in python,6,Tools
+5213,How we can know which variable is contributing how much to factor component in PCA,5,Techniques
+5214,A Complete Tutorial to learn Data Science in R from Scratch,3,Other
+5215,Interactive Visualization of K-means Clustering algorithm,5,Techniques
+5216,Predicting a Continous output in a dataset with categories,5,Techniques
+5217,How can I find number of characters within a cell in excel?,6,Tools
+5218,Two different results on confusion matrix using random Forest on loan prediction data,5,Techniques
+5219,Looking for a career transition from System administration / DevOps to Data Science/Engineering,0,Career
+5220,Automatic Image Captioning using PyTorch,5,Techniques
+5221,Beginner level query regarding Git and GitHub,5,Techniques
+5222,How to merge two CSV file by a specific column using python?,6,Tools
+5223,Imbalance Class Classification using Random Forest,5,Techniques
+5224,Learn probability,5,Techniques
+5225,Analytics career for software development engineer,0,Career
+5226,Best Hadoop/Big Data Classroom Course ( Bangalore),4,Resources
+5227,Machine learning:-stratified K fold cross_validation,5,Techniques
+5228,Learning from Data - Learning Group,4,Resources
+5229,Steps after Imputation,5,Techniques
+5230,Predict relative probability with the rate of 57% or higher,5,Techniques
+5231,Rules for the online hackathon,1,Hackathons
+5232,Research Paper on Regression,5,Techniques
+5233,Hobby data science project ideas for a beginner?,0,Career
+5234,Data Step Vs Proc SQL in SAS,6,Tools
+5235,Non Linear Multiple regression,5,Techniques
+5236,Additional factor level in test data which causes no prediction,5,Techniques
+5237,How to print in R without the initial [1],6,Tools
+5238,"Which company is the best residential construction company in south end park, Hyderabad",5,Techniques
+5239,How the value of Laplace will change the naive Bayes model,5,Techniques
+5240,Cant open jupyter notebook with anaconda even after successfully installing it,6,Tools
+5241,What does the error requires complex weights in neural nets mean,5,Techniques
+5242,How to draw spider chart in R,6,Tools
+5243,How to calculate the accuracy score of a model in python?,6,Tools
+5244,Portfolio optimization,5,Techniques
+5245,Can anybody please help me to convert the date variable in Seers accuracy competition,1,Hackathons
+5246,Why we use -1 to impute for missing values?,5,Techniques
+5247,How clustering helps in improving the performance of the model?,5,Techniques
+5248,Why does the rare words have more weight in Inverse Document Frequency representation?,5,Techniques
+5249,Looking for sample business datasets,4,Resources
+5250,Getting error while installing 'pattern' package in python,6,Tools
+5251,Difference between OLS & MLE?,6,Tools
+5252,Datasets of grammatically uncommon sentences,4,Resources
+5253,"Error ""could not convert string to float"" while running randomForest model in Python",5,Techniques
+5254,Missing values treatment in model building steps in R,5,Techniques
+5255,datafest : Experiments With Data - Importing issues in the data in R,3,Other
+5256,Bridge school of managements PGDBA program,0,Career
+5257,Date variables in prediction,1,Hackathons
+5258,Article Publishing,3,Other
+5259,Plot two graphs on the same plot in R,6,Tools
+5260,Data Visualization in Python and R,6,Tools
+5261,Residual plot to validate linear model!,5,Techniques
+5262,Test for this func,5,Techniques
+5263,Create frequency table in R,6,Tools
+5264,Any quick way to classify large dataset into smaller buckets to get better Linear Regression model for each bucket,5,Techniques
+5265,How to solve a route optimization problem in R,5,Techniques
+5266,How to add a new column in a existing data in R?,6,Tools
+5267,SVM Algorithm Performance,5,Techniques
+5268,Institute in Pune for R and Python,6,Tools
+5269,WNS & NIIT University joint MBA program in Business analytics - thoughts / feedback from experts required,0,Career
+5270,How to fill the element in matrix by row wise in R,6,Tools
+5271,Web scraping with R using rvest for financial website,5,Techniques
+5272,How do you exploit the social media data,6,Tools
+5273,How to find internship in Data Science?,0,Career
+5274,XGBOOST Bank data,3,Other
+5275,How is data collected for analysis?,5,Techniques
+5276,What is the difference between bagging of decision trees and random forest,5,Techniques
+5277,Data Mining Concept Tenchnique,3,Other
+5278,Transition to data science,0,Career
+5279,Errors while executing codes after importing pygraphviz,6,Tools
+5280,Displaying Alphabets with help of Property,1,Hackathons
+5281,Join Volunteer Club: Be our Data Science Torchbearers,0,Career
+5282,Data reading with R,6,Tools
+5283,Two graphs together on the same plot in R using ggplot2,6,Tools
+5284,MS in Analytics from US or PGDBA from IIM C+ISI Kolkata + IIT Kharagpur,0,Career
+5285,How can I convert a groupby dataframe to dataframe in Python,6,Tools
+5286,Spell error mapping,5,Techniques
+5287,Structured Thinking Resource,6,Tools
+5288,Importing dataset,5,Techniques
+5289,RStudio v0.99 Released,6,Tools
+5290,Xgboost package in R,6,Tools
+5291,How to decide the kernal type in SVM,5,Techniques
+5292,Collinearity versus Correlation,5,Techniques
+5293,Framework To Build Survival Analysis Model On R,5,Techniques
+5294,Export a file into json format in R,6,Tools
+5295,Hadoop projects for big data analysis,5,Techniques
+5296,How use GridSearchCV and pipelines to crossvalidate best categorical encoding,5,Techniques
+5297,Linear Regression Doubt,3,Other
+5298,"What is the ""errorevol"" output from boosting in R",6,Tools
+5299,Download HD Infographic - 27 Essential Data Science Books,4,Resources
+5300,Hackathon: Cross-sell: target the right customer - issue with submission data,1,Hackathons
+5301,Best Database for short (3-6 months) Analytics/Advanced Analytics engagements,0,Career
+5302,Classification of Association rules,5,Techniques
+5303,Grid search related to machine learning knn algorithm,5,Techniques
+5304,Question On Artificial intelligence,0,Career
+5305,Apply function with multiple parameters in R,6,Tools
+5306,12 Useful Pandas Techniques in Python for Data Manipulation,4,Resources
+5307,What is Varimax rotation in PCA,5,Techniques
+5308,Stl() for non seasonal time series data In R,5,Techniques
+5309,Dataset for Natural Language Processing Project,4,Resources
+5310,How to clean the test set?,5,Techniques
+5311,Binning and Encoding for Cat and Numerical Variables in R,5,Techniques
+5312,Which algorithm fits best for predicting continuous outcome from continuous and categorical inputs?,5,Techniques
+5313,NLP reading materials,6,Tools
+5314,Too many False Postives with Unbalanced Data,3,Other
+5315,"Meaning of the statement : {0:.3%}"".format(accuracy) in[ print ""Accuracy : %s"" % ""{0:.3%}"".format(accuracy)]",6,Tools
+5316,PGPM or PGDM Full time from Great Lakes,0,Career
+5317,Join Volunteer Club: Be our Data Science Torchbearers,0,Career
+5318,Career Opportunities in Analytics for MBA freshers,0,Career
+5319,Aggregations using Spark Data Frames in Java for Large Data,6,Tools
+5320,Infographic - A Complete Guide on Getting Started with Deep Learning in Python,4,Resources
+5321,Hackathon process,1,Hackathons
+5322,How to remove error while creating list in Python using Spyder,6,Tools
+5323,Help needed for sequence problem,5,Techniques
+5324,How to deal with mixed objects in R,6,Tools
+5325,Best resources to break into data science?,4,Resources
+5326,Are Precision and Recall Interdependant,5,Techniques
+5327,Logistic_Regression,5,Techniques
+5328,Statistics for Data Science,5,Techniques
+5329,Internship after certification course,0,Career
+5330,Replacing punctuation by space in text analytics,5,Techniques
+5331,How to input multiple indices on pd.crosstab?,5,Techniques
+5332,How to extract important variables from random forest model using varImpPlot in R?,5,Techniques
+5333,Deep learning setup requirements,4,Resources
+5334,Companies hiring for business analyst,0,Career
+5335,Calculating Information gain in Decision Trees while choosing which attribute to split on,5,Techniques
+5336,How to plot a proper decision tree using fancyrpartplot in R,6,Tools
+5337,Why scaling matters in in lasso regression?,5,Techniques
+5338,How to replace the missing values with mean in a SAS dataset?,6,Tools
+5339,Importing SQL Server Data into R,6,Tools
+5340,Submission file error,1,Hackathons
+5341,Hackathon resource guide for tomorrow,1,Hackathons
+5342,Career shift from IT to Big Data / Hadoop,0,Career
+5343,"Want to make an innovative,creative,attractive deep learning project which make my resume better",4,Resources
+5344,Co-linearity and co-relation,5,Techniques
+5345,Machine learning using SAS vs Python,6,Tools
+5346,What are additive models,5,Techniques
+5347,Variable Selection in R (Similar to Proc Varclus in SAS),6,Tools
+5348,I could not download the file with the data,4,Resources
+5349,Imbalanced classification!,5,Techniques
+5350,How to save Compact Prediction Tree (CPT) model,5,Techniques
+5351,How to calculate baseline prediction of a linear regression model?,5,Techniques
+5352,Predicting customer recharge/topup value for prepaid customer,5,Techniques
+5353,A Sr. Statistician needs guidance to build Data Science Skills,0,Career
+5354,How well do we need to be skilled for getting an internship in data science?,0,Career
+5355,Magnitude of Coefficient Values and its interpretation,5,Techniques
+5356,How to call a function in Python?,6,Tools
+5357,Why are there multiple hypotheses in ensemble methods,5,Techniques
+5358,ValueError: could not convert string to float: when running model,5,Techniques
+5359,How to connect sql table with kafka?,6,Tools
+5360,How can I generate two-way table in Python?,6,Tools
+5361,To replace sas by python in companies,6,Tools
+5362,How to identify Top and Bottom Performer in Qlikview?,6,Tools
+5363,Exporting modified corpus with R,6,Tools
+5364,Choosing online MS in Data Science or Analytics,0,Career
+5365,Shift from Software Data Analysis to Data Analytics,0,Career
+5366,How to select the value of extra in rplot,5,Techniques
+5367,Looking for an active BigData/hadoop forum,6,Tools
+5368,Unexpected HTTP Status code: 400 Bad Request in H20.gbm,5,Techniques
+5369,Prediction technique for a new product launch in Pharma,5,Techniques
+5370,How to populate sub-total and grand total in pivot table of Qlikview?,6,Tools
+5371,Error in Function in Python,6,Tools
+5372,Black Friday Data Hack - Reveal your approach,1,Hackathons
+5373,How can we show the cumulative total of total sales using line chart in Qlikview?,6,Tools
+5374,Practical implementation of Predictive Models,5,Techniques
+5375,Predicting inflow and outflow from bank account of customer,5,Techniques
+5376,Career Tips - Python or R?,0,Career
+5377,A Comprehensive Guide to Understand and Implement Text Classification in Python,5,Techniques
+5378,Why should a Data Scientist know C/C++?,0,Career
+5379,Same function in different libraries in R,6,Tools
+5380,Time Series Classification in Python,5,Techniques
+5381,ABInBev Data Science Talent Hunt Hackathon Submission format,1,Hackathons
+5382,Starting At Kaggle,5,Techniques
+5383,Career decision before proceeding with a specific data analysis tool or joining a Business analytics course instead?,0,Career
+5384,Regression with categorical variables working,5,Techniques
+5385,Is boosting algorithm only applied to rpart tree,5,Techniques
+5386,Tutorials for Matlab,5,Techniques
+5387,Categorical variable with large level,5,Techniques
+5388,Building team for computer vision and machine learning expert,0,Career
+5389,Machine Learning Project on Imbalanced data - Test dataset query,4,Resources
+5390,Warehouse Productivity Analysis - Approach,5,Techniques
+5391,Why does the image structure show different content,5,Techniques
+5392,Assistance on where to start for analyzing employee engagement data,0,Career
+5393,Suggest some cool ML applications in Computer Vision / Image Processing,5,Techniques
+5394,Lexical Scoping in R,5,Techniques
+5395,Need an algorithm or direction in order to classify time series data,5,Techniques
+5396,R code for ECLAT algorithm,5,Techniques
+5397,MISB Bocconi's Program Online Course Content. How good is it?,0,Career
+5398,Need tool for extracting data from online graph,6,Tools
+5399,Latent Markov Model,6,Tools
+5400,Time series in 'R',5,Techniques
+5401,Books / Websites which provide steps to solve various data science projects?,4,Resources
+5402,How to find out influential and unusual observation and how to capping it in R,5,Techniques
+5403,Potential Customer for Targeted Marketing - Machine Learning Models,5,Techniques
+5404,Sales Prediction based on Multiple Attributes,5,Techniques
+5405,What is PCA and how is it different from SVD,5,Techniques
+5406,Transactional patterns,5,Techniques
+5407,The Analytics Edge on edx,0,Career
+5408,What is the singularity error in linear regression,5,Techniques
+5409,How to write R code similar to SAS PROC SUMMARY or SPSS Data Audit ? Is there any such R package available?,6,Tools
+5410,R Programming resources for a newbie,4,Resources
+5411,How to resolve cannot compute OOB estimate or the OOB curve error in gbm using R,5,Techniques
+5412,Handwritten text recognition python,5,Techniques
+5413,Pgdba iit isi iim,0,Career
+5414,Irregular Market or Trading behavior,5,Techniques
+5415,What is the scenario where we need to use weighted mean,5,Techniques
+5416,Kaggle Walkthrough on Data Science,0,Career
+5417,Megastar prediction: Share your maximum accuracy & the method adopted,5,Techniques
+5418,Book recommendation: Scalable machine learning for bigger data,5,Techniques
+5419,How to use Principal Components for further analysis,5,Techniques
+5420,Who are top Analytics Companies?,0,Career
+5421,Data Analytics or Business Analytics after MbA and experience in Hr,0,Career
+5422,Case studies using Analytics,0,Career
+5423,How can we access the elements of df.describe() for any DataFrame df?,6,Tools
+5424,R - Memory issue on allocating large size data to a vector,6,Tools
+5425,Difference between ridge regression and lasso and its effect,5,Techniques
+5426,What are the ways of treatment of NA in Time series and Cross sectional data?,5,Techniques
+5427,What is the Best SAS certification for an aspiring DATA SCIENTIST,0,Career
+5428,Career Change from C++ Developer to Data Scientist,0,Career
+5429,How to open the .json file in R?,6,Tools
+5430,Simple machine learning projects to learn machine learning,2,Misc
+5431,Pages and Filters in Tableau,6,Tools
+5432,How to mix rows in R,6,Tools
+5433,How to split the data in random forest,5,Techniques
+5434,Forecasting using ARIMA after series has been transformed,5,Techniques
+5435,Review on analytixsLab course,0,Career
+5436,Understanding and coding Neural Networks From Scratch in Python and R:,6,Tools
+5437,Download New Year Resolutions Checklist 2016,4,Resources
+5438,How to change my career from digital marketing to data science,0,Career
+5439,Is there a 100% chance if null hypothesis is true then parameter must be true,5,Techniques
+5440,How to use Genetic algorithm to shift time for peak loads to non peak hours,5,Techniques
+5441,Classification Problem with 1M rows in training set,5,Techniques
+5442,How do I create a data frame with all possible combinations of three other data frames of 1 column each in R?,6,Tools
+5443,What are the disadvantages of boosting,5,Techniques
+5444,Which type of regression to use?,5,Techniques
+5445,Is there any difference in Ridge regression performed using glmnet function and lm.ridge function?,6,Tools
+5446,LabelEncoder throws type error in sort,6,Tools
+5447,Data.frame arguments,6,Tools
+5448,Handling the axis range and intervals for a bar plot,6,Tools
+5449,Help with prediction,1,Hackathons
+5450,Using Mean to Guess Availality on Boolean Data before munging,5,Techniques
+5451,Join Volunteer Club: Be our Data Science Torchbearers,0,Career
+5452,Microsoft Certified Solutions Expert MCSE,0,Career
+5453,Which machine learning technique can be used for network downtime prediction in telecom,5,Techniques
+5454,Loading .arff type files in python,6,Tools
+5455,How to create a co-occurence matrix in python,6,Tools
+5456,Is Mu Sigma Still a good company?,4,Resources
+5457,What are some techniques of hypothesis testing for model building?,5,Techniques
+5458,Devise a single metric to measure retention of listeners using the service on a daily basis for the last month,5,Techniques
+5459,Can you suggest some good tutorial on GA package in R,4,Resources
+5460,MySQL & SQL Cheat Sheet,6,Tools
+5461,Interview question asked from a project,0,Career
+5462,"When should use the "":="" operator in R?",6,Tools
+5463,Trainee / Entry Level jobs in Data Science / Machine Learning in India?,0,Career
+5464,Time series analysis,5,Techniques
+5465,Is M tech in Data Science good for Market Resarch Field,0,Career
+5466,Difference Between 3-tier and 2-tier architectures in Qlikview?,6,Tools
+5467,"Trying to replicate Sachin dashboard,Bar Chart not showing correctly",6,Tools
+5468,Is it required to remove correlated variables before performing PCA?,5,Techniques
+5469,Reactions to Gartner advanced analytics quadrants - 2015?,2,Misc
+5470,Deployment of naive Bayes Model,5,Techniques
+5471,"Career shift to Data science after working in PL/SQL for 5 years, will it be a good choice?",0,Career
+5472,How can get the actionable insights faster from data set?,5,Techniques
+5473,To work on Weather forecasting,5,Techniques
+5474,Decision Tree - sklearn - python2.7 -spyder Ide,5,Techniques
+5475,How is SVD different from other matrix factorization techniques like Non negative Matrix Factorization?,5,Techniques
+5476,Cognitive computing,5,Techniques
+5477,Combined probability of N events,5,Techniques
+5478,Novice: How do pupils acquire real world data for research academic projects in Business analytics domain,0,Career
+5479,Why is plot function behaving like hist function in R?,6,Tools
+5480,What is Text Analytics?,5,Techniques
+5481,Wanted to join a group to execute projects using R and git,3,Other
+5482,Executive Program in Business Analytics offered by Jigsaw Academy in collaboration with MISB Bocconi University,0,Career
+5483,Train & test data partition,5,Techniques
+5484,Logistic Results Inconsistent,6,Tools
+5485,How to remove NaN value while calculating the information value of the variable?,5,Techniques
+5486,Please help me in joining the DATAFEST online from US,1,Hackathons
+5487,What algorithms are suitable for the following recommender healthcare system,5,Techniques
+5488,Certifications suggestion,0,Career
+5489,What are anonymous function in R?,6,Tools
+5490,Should we take all the variables from the training data in a randomForest model?,5,Techniques
+5491,Time Series Forecasting and reducing it to stationary series,5,Techniques
+5492,Data Visualization and text analysis (twitter mining),3,Other
+5493,Cross Validation strategy for stacked models,5,Techniques
+5494,How to convert Cross Table into Straight Table in Qlikview?,6,Tools
