@@ -2,6 +2,7 @@
 This is my First ML based project for classifying short text queries into predefined domains using scikit-learn.
 <br>
 Author - Nafees Sayyed
+<br>
  Problem Statement
 Given a dataset of short English text queries and their corresponding domain labels, build a model that can classify new/unseen queries into the appropriate category.
 
