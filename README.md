@@ -28,7 +28,7 @@ Language: Python
 
 Libraries: Pandas, Scikit-learn, Matplotlib, Seaborn
 
-Model(s): Logistic Regression
+Model: Logistic Regression
 
 Text Vectorization: TfidfVectorizer
 
@@ -40,7 +40,7 @@ Cleaned text (lowercased, removed special characters)
 
 Encoded labels
 
-Applied CountVectorizer to convert text to numerical form
+Applied TfidfVectorizer to convert text to numerical form
 
 Handled class imbalance
 
